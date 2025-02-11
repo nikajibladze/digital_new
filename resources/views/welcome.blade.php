@@ -586,7 +586,7 @@
         <!-- ====== start process ====== -->
         <section class="tc-process-st17">
             <div class="container">
-                <h2 class="lg-title"> process section </h2>
+                {{-- <h2 class="lg-title"> process section </h2> --}}
                 <div class="cards">
                     <div class="row gx-5">
                         <div class="col-lg-3">
