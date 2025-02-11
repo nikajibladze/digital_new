@@ -63,13 +63,13 @@
                 <div class="row align-items-center">
                     <div class="col-lg-8">
                         <div class="top-links">
-                            <div class="text text-white">
+                            {{-- <div class="text text-white">
                                 <i class="fas fa-bullhorn"></i>
                                 <strong>Now Hiring:</strong>
                                 <span>Are you a driven and motivated <a href="#" class="p-0"><u>1st Line IT
                                             Support
                                             Engineer?</u></a></span>
-                            </div>
+                            </div> --}}
                         </div>
                     </div>
                     <div class="col-lg-4">
@@ -122,8 +122,8 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item dropdown">
-                        <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdown1"
-                            role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdown1" role="button"
+                            data-bs-toggle="dropdown" aria-expanded="false">
                             მთავარი
                         </a>
 
