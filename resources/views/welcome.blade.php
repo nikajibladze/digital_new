@@ -14,7 +14,7 @@
     <title>Iteck</title>
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="assets/img/fav.png" title="Favicon" sizes="16x16" />
+    <link rel="shortcut icon" href="assets/img/gerbi.png" title="Favicon" sizes="16x16" />
 
     <!-- ====== bootstrap icons cdn ====== -->
     <link rel="stylesheet"
@@ -197,7 +197,7 @@
                                 solutions that satisfy the needs of today.
                             </div>
                             <div class="bttns mt-5">
-                                <a href="page-services-5.html" class="btn btn-dark">
+                                <a href="https://egov.ge/ministri" class="btn btn-dark">
                                     <span>გაზიარება</span>
                                 </a>
                                 <a href="https://youtu.be/pGbIOC83-So?t=21" data-lity class="vid-btn">
