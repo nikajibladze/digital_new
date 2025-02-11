@@ -112,7 +112,7 @@
     <nav class="navbar navbar-expand-lg navbar-light style-1">
         <div class="container">
             <a class="navbar-brand" href="#">
-                <img src="assets/img/logo_cd.png" alt="">
+                <img src="assets/img/gerbi.png" alt="">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
@@ -126,33 +126,14 @@
                             role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             მთავარი
                         </a>
-                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown1">
-                            <li><a class="dropdown-item" href="index.html"> Landing Preview </a></li>
-                            <li><a class="dropdown-item" href="home-it-solutions2.html"> Creative It Solutions </a>
-                            </li>
-                            <li><a class="dropdown-item" href="home-data-analysis.html"> Data Analysis </a></li>
-                            <li><a class="dropdown-item" href="home-app-landing.html"> App Landing </a></li>
-                            <li><a class="dropdown-item" href="home-saas-technology.html"> Saas Technology </a></li>
-                            <li><a class="dropdown-item" href="home-marketing-startup.html"> Marketing Startup </a>
-                            </li>
-                            <li><a class="dropdown-item" href="home-it-solutions.html"> It Solution </a></li>
-                            <li><a class="dropdown-item" href="home-software-company.html"> Software Company </a></li>
-                            <li><a class="dropdown-item" href="home-digital-agency.html"> Digital Agency </a></li>
-                            <li><a class="dropdown-item" href="home-shop-modern.html"> Modern Shop </a></li>
-                        </ul>
+
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown2" role="button"
                             data-bs-toggle="dropdown" aria-expanded="false">
                             ციფრული საქართველო
                         </a>
-                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown1">
-                            <li><a class="dropdown-item" href="page-about-5.html">about</a></li>
-                            <li><a class="dropdown-item" href="page-product-5.html">product</a></li>
-                            <li><a class="dropdown-item" href="page-services-5.html">services</a></li>
-                            <li><a class="dropdown-item" href="page-shop-5.html">shop</a></li>
-                            <li><a class="dropdown-item" href="page-single-project-5.html">single project</a></li>
-                        </ul>
+
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="page-portfolio-5.html">
@@ -206,7 +187,7 @@
                     <div class="col-lg-6">
                         <div class="info">
                             <div class="section-head mb-60">
-                                <h6 class="color-main text-uppercase">გაუზიარე შენი </h6>
+                                <h3 class="color-main text-uppercase">გაუზიარე შენი </h3>
                                 <h2>
                                     მოსაზრება <span class="fw-normal">სახელმწიფოს</span>
                                 </h2>
@@ -253,28 +234,28 @@
                     <div
                         class="about-logos d-flex align-items-center justify-content-between border-bottom border-1 brd-light pb-20">
                         <a href="#" class="logo wow fadeInUp" data-wow-delay="0">
-                            <img src="assets/img/about/about_logos/1.png" alt="">
+                            <h4 class="light">თემა 1</h4>
                         </a>
                         <a href="#" class="logo wow fadeInUp" data-wow-delay="0.2s">
-                            <img src="assets/img/about/about_logos/2.png" alt="">
+                            <h4 class="light">თემა 2</h4>
                         </a>
                         <a href="#" class="logo wow fadeInUp" data-wow-delay="0.4s">
-                            <img src="assets/img/about/about_logos/3.png" alt="">
+                            <h4 class="light">თემა 3</h4>
                         </a>
                         <a href="#" class="logo wow fadeInUp" data-wow-delay="0.6s">
-                            <img src="assets/img/about/about_logos/4.png" alt="">
+                            <h4 class="light">თემა 4</h4>
                         </a>
                         <a href="#" class="logo wow fadeInUp" data-wow-delay="0.8s">
-                            <img src="assets/img/about/about_logos/5.png" alt="">
+                            <h4 class="light">თემა 5</h4>
                         </a>
                     </div>
                     <div class="about-info">
                         <div class="row justify-content-between">
                             <div class="col-lg-5">
                                 <div class="title">
-                                    <h3 class=" wow fadeInUp slow">“Technology is best when it brings people together.”
+                                    <h3 class=" wow fadeInUp slow">ციფრული პარლამენტი - მოქალაქეთა პლატფორმა
                                     </h3>
-                                    <small class=" wow fadeInUp slow fw-bold">Patricia Cross</small>
+                                    <small class=" wow fadeInUp slow fw-bold"></small>
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -288,7 +269,7 @@
                                         consultancy services.</p>
                                     <a href="page-about-5.html"
                                         class="btn btn-outline-light mt-5 sm-butn wow fadeInUp slow">
-                                        <span>more about us</span>
+                                        <span>დისკუსიის დაწყება</span>
                                     </a>
                                 </div>
                             </div>
@@ -307,7 +288,7 @@
                                         </span>
                                     </div>
                                     <div class="inf">
-                                        Years of Experience
+                                        აქტიური მოქალაქე
                                     </div>
                                 </div>
                             </div>
@@ -322,7 +303,7 @@
                                         </span>
                                     </div>
                                     <div class="inf">
-                                        Projects completed
+                                        დისკუსია
                                     </div>
                                 </div>
                             </div>
@@ -334,7 +315,7 @@
                                         </span>
                                     </div>
                                     <div class="inf">
-                                        Awards achievied
+                                        სამინისტრო
                                     </div>
                                 </div>
                             </div>
@@ -346,7 +327,7 @@
                                         </span>
                                     </div>
                                     <div class="inf">
-                                        Satisfied clients on 24 countries
+                                        საჯარო მოხელე
                                     </div>
                                 </div>
                             </div>
@@ -358,26 +339,159 @@
         </section>
         <!-- ====== end about ====== -->
 
+        <!-- ====== start features ====== -->
+        <section class="features style-7 section-padding">
+            <div class="container">
+                <div class="section-head text-center style-4 mb-40">
+                    <div class="top-title mb-10">
+                        <img src="assets/img/line_l.png" alt="">
+                        <h5> გადაწყვეტილებები </h5>
+                        <img src="assets/img/line_r.png" alt="">
+                    </div>
+                    <h2 class="">
+                        საქართველოს <span> ტექნიკური </span> <br>და IT გადაწყვეტილებები
+                    </h2>
+                </div>
+            </div>
+            <div class="content">
+                <div class="features-slider7">
+                    <div class="swiper-container">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <a href="#" class="features-card style-7">
+                                    <div class="icon">
+                                        <img src="assets/img/icons/fe1.png" alt="">
+                                    </div>
+                                    <div class="info">
+                                        <p class="color-999"> გადაწყვეტილება 01 </p>
+                                        <h5>ჯანცაცვა </h5>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#" class="features-card style-7">
+                                    <div class="icon">
+                                        <img src="assets/img/icons/fe2.png" alt="">
+                                    </div>
+                                    <div class="info">
+                                        <p class="color-999"> გადაწყვეტილება 02 </p>
+                                        <h5> ელ-მმართველობა </h5>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#" class="features-card style-7">
+                                    <div class="icon">
+                                        <img src="assets/img/icons/fe3.png" alt="">
+                                    </div>
+                                    <div class="info">
+                                        <p class="color-999"> გადაწყვეტილება 03 </p>
+                                        <h5> კიბერუსაფრთხოება </h5>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#" class="features-card style-7">
+                                    <div class="icon">
+                                        <img src="assets/img/icons/fe4.png" alt="">
+                                    </div>
+                                    <div class="info">
+                                        <p class="color-999"> გადაწყვეტილება 04 </p>
+                                        <h5> ჭკვიანი ქალაქი <br> მობილობა </h5>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="btns text-center mt-10">
+                    <a href="#0"
+                        class="btn btn-icon-circle rounded-pill bg-blue7 fw-bold text-white me-4 mb-4 mb-lg-0">
+                        <small> სრულად ნახვა<i class="fas fa-long-arrow-alt-right"></i> </small>
+                    </a>
+                    {{-- <a href="#0" class="btn btn-icon-circle rounded-pill bg-white fw-bold me-4">
+                        <small> Purchase Now <i class="fas fa-long-arrow-alt-right bg-light"></i> </small>
+                    </a> --}}
+                </div>
+            </div>
+            <img src="assets/img/feat_circle.png" alt="" class="img-circle rotate-center">
+        </section>
+        <!-- ====== end features ====== -->
+
+        <!-- ====== start partners ====== -->
+        <section class="clients style-9  bg-gray2">
+            <div class="container">
+
+                <div class="content">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="client-card wow fadeInUp">
+                                <div class="row">
+                                    <div class="col-md-3">
+                                        <div class="img">
+                                            <img src="assets/img/icons/prt1.png" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-9">
+                                        <div class="info">
+                                            <h5> ახალი ინიციატივა </h5>
+                                            <p> Get everything you need to start and run your web hosting and domain
+                                                business. </p>
+                                            <a href="#" class="mt-30"> <i
+                                                    class="far fa-long-arrow-right l-arrow me-2"></i> დეტალურად<i
+                                                    class="far fa-long-arrow-right r-arrow ms-2"></i> </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="client-card mt-4 mt-md-0 wow fadeInUp" data-wow-delay="0.2s">
+                                <div class="row">
+                                    <div class="col-md-3">
+                                        <div class="img">
+                                            <img src="assets/img/icons/prt2.png" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-9">
+                                        <div class="info">
+                                            <h5> სახელმწიფოს მიერ შესრულებული სამუშაოები</h5>
+                                            <p> Spend less time managing client sites, and free up your day to create
+                                                more and manage less. </p>
+                                            <a href="#" class="mt-30"> <i
+                                                    class="far fa-long-arrow-right l-arrow me-2"></i> დეტალურად<i
+                                                    class="far fa-long-arrow-right r-arrow ms-2"></i> </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+        <!-- ====== end partners ====== -->
 
         <!-- ====== start services ====== -->
         <section class="services section-padding style-1">
             <div class="container">
                 <div class="row">
                     <div class="col offset-lg-1">
-                        <div class="section-head mb-60">
+                        {{-- <div class="section-head mb-60">
                             <h6 class="color-main text-uppercase wow fadeInUp">our services</h6>
                             <h2 class="wow fadeInUp">
                                 Perfect IT Solutions <span class="fw-normal">For Your Business</span>
                             </h2>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
                 <div class="content">
                     <div class="row">
-                        <div class="col-lg-4">
+                        <div class="col-lg-6">
                             <div class="service-box mb-4 wow fadeInUp" data-wow-delay="0">
                                 <h5>
-                                    <a href="page-services-5.html"> IT Consultation </a>
+                                    <a href="page-services-5.html"> სამინისტროს ანგარიშები</a>
                                     <span class="num">01</span>
                                 </h5>
                                 <div class="icon">
@@ -395,10 +509,11 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4">
+                        <div class="col-lg-6">
                             <div class="service-box mb-4 wow fadeInUp" data-wow-delay="0.2s">
                                 <h5>
-                                    <a href="page-services-5.html"> Data Security </a>
+                                    <a href="page-services-5.html"> მოსახლეობის მიერ სტრუქტურებში გაგზავნილი იდეები
+                                    </a>
                                     <span class="num">02</span>
                                 </h5>
                                 <div class="icon">
@@ -416,10 +531,11 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4">
+                        <div class="col-lg-6">
                             <div class="service-box mb-4 wow fadeInUp" data-wow-delay="0.4s">
                                 <h5>
-                                    <a href="page-services-5.html"> Website Development </a>
+                                    <a href="page-services-5.html"> მოსახლეობის მიერ სტრუქტურაში გაგზავნილი იდეების
+                                        სტატისტიკა </a>
                                     <span class="num">03</span>
                                 </h5>
                                 <div class="icon">
@@ -438,7 +554,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4">
+                        <div class="col-lg-6">
                             <div class="service-box mb-4 mb-md-0 wow fadeInUp" data-wow-delay="0">
                                 <h5>
                                     <a href="page-services-5.html"> UI/UX Design </a>
@@ -458,48 +574,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4">
-                            <div class="service-box mb-4 mb-md-0 wow fadeInUp" data-wow-delay="0.2s">
-                                <h5>
-                                    <a href="page-services-5.html"> Cloud Services </a>
-                                    <span class="num">05</span>
-                                </h5>
-                                <div class="icon">
-                                    <img src="assets/img/icons/serv_icons/5.png" alt="">
-                                </div>
-                                <div class="info">
-                                    <div class="text">
-                                        Trust our top minds to eliminate workflow pain points, implement new tech & app.
-                                    </div>
-                                    <div class="tags">
-                                        <a href="#">Cloud Storerage</a>
-                                        <a href="#">Hosting & VPS</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4">
-                            <div class="service-box wow fadeInUp" data-wow-delay="0.4s">
-                                <h5>
-                                    <a href="page-services-5.html"> Game Development </a>
-                                    <span class="num">06</span>
-                                </h5>
-                                <div class="icon">
-                                    <img src="assets/img/icons/serv_icons/6.png" alt="">
-                                </div>
-                                <div class="info">
-                                    <div class="text">
-                                        Trust our top minds to eliminate workflow pain points, implement new tech & app.
-                                    </div>
-                                    <div class="tags">
-                                        <a href="#">Unity 2D/3D</a>
-                                        <a href="#">VR/AR</a>
-                                        <a href="#">iOS & Android</a>
-                                        <a href="#">HTC Vive</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+
                     </div>
                 </div>
             </div>
@@ -508,70 +583,94 @@
         </section>
         <!-- ====== end services ====== -->
 
-
-        <!-- ====== start choose-us====== -->
-        <section class="choose-us section-padding pt-0 style-1">
+        <!-- ====== start process ====== -->
+        <section class="tc-process-st17">
             <div class="container">
-                <div class="row justify-content-end">
-                    <div class="col-lg-5">
-                        <div class="info">
-                            <div class="section-head mb-60">
-                                <h6 class="color-main text-uppercase wow fadeInUp">Why choose us</h6>
-                                <h2 class="wow fadeInUp">
-                                    Boost Your Business <span class="fw-normal">With New Tech</span>
-                                </h2>
+                <h2 class="lg-title"> process section </h2>
+                <div class="cards">
+                    <div class="row gx-5">
+                        <div class="col-lg-3">
+                            <div class="process-card wow fadeInUp" data-wow-delay="0.1s">
+                                <span class="num"> 1 </span>
+                                <h4> ტკივილი</h4>
+                                <div class="text"> ფულის, რესურსების ან სამუშაო ძალის ნაკლებობა
+                                </div>
                             </div>
-                            <div class="text">
-                                Our team can assist you in transforming your business through latest tech capabilities
-                                to stay ahead of the curve.
-                            </div>
-                            <ul>
-                                <li class="wow fadeInUp">
-                                    <span class="icon">
-                                        <i class="bi bi-check2"></i>
-                                    </span>
-                                    <h6>
-                                        Latest IT Solutions & Integration With Blockchain
-                                    </h6>
-                                </li>
-                                <li class="wow fadeInUp">
-                                    <span class="icon">
-                                        <i class="bi bi-check2"></i>
-                                    </span>
-                                    <h6>
-                                        Over 100+ Payment Gateways Support
-                                    </h6>
-                                </li>
-                                <li class="wow fadeInUp">
-                                    <span class="icon">
-                                        <i class="bi bi-check2"></i>
-                                    </span>
-                                    <h6>
-                                        AI Machine & Deep Learning
-                                    </h6>
-                                </li>
-                                <li class="wow fadeInUp">
-                                    <span class="icon">
-                                        <i class="bi bi-check2"></i>
-                                    </span>
-                                    <h6>
-                                        Dedicated Support 24/7
-                                    </h6>
-                                </li>
-                            </ul>
-
-                            <a href="page-about-5.html" class="btn butn-gard border-0 text-white wow fadeInUp">
-                                <span>How We Works</span>
-                            </a>
                         </div>
+                        <div class="col-lg-3">
+                            <div class="process-card wow fadeInUp" data-wow-delay="0.2s">
+                                <span class="num"> 2 </span>
+                                <h4> გაგება</h4>
+                                <div class="text"> დიგიტალიზაციას შეუძლია მოაგვაროს ეს საკითხები სერვისებზე
+                                    ხელმისაწვდომობის გაზრდით
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3">
+                            <div class="process-card wow fadeInUp" data-wow-delay="0.3s">
+                                <span class="num"> 3 </span>
+                                <h4> მხარდაჭერა </h4>
+                                <div class="text">პოლიტიკური ნება და საზოგადოების მხარდაჭერა სიტუაციის
+                                    გასაუმჯობესებლად, IT წიგნიერება და ცოდნა
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3">
+                            <div class="process-card wow fadeInUp" data-wow-delay="0.4s">
+                                <span class="num"> 4 </span>
+                                <h4> სამართლებრივი ჩარჩო</h4>
+                                <div class="text"> სავალდებულო ელექტრონული პირადობის მოწმობა, დეცენტრალიზაცია და
+                                    მხოლოდ ერთხელ პოლიტიკა, ნდობა დიზაინის მიდგომა, არა მემკვიდრეობითი პოლიტიკა
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="cards">
+                    <div class="row gx-5">
+                        <div class="col-lg-3">
+                            <div class="process-card wow fadeInUp" data-wow-delay="0.1s">
+                                <span class="num"> 5 </span>
+                                <h4> კერძო სექტორი</h4>
+                                <div class="text"> კერძო სექტორთან თანამშრომლობა
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3">
+                            <div class="process-card wow fadeInUp" data-wow-delay="0.2s">
+                                <span class="num"> 6 </span>
+                                <h4> ფონდები </h4>
+                                <div class="text"> e-ID, X-Road (მონაცემთა გაცვლა), კიბერუსაფრთხოება დიზაინის
+                                    მიხედვით, მონაცემთა დაცვა
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3">
+                            <div class="process-card wow fadeInUp" data-wow-delay="0.3s">
+                                <span class="num"> 7 </span>
+                                <h4> დიზაინი </h4>
+                                <div class="text"> დაკავშირება (ინტერნეტი), სერვისის დიზაინი, დოკუმენტების ციფრულზე
+                                    გადაწერა, განსხვავებული აზროვნება
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3">
+                            <div class="process-card wow fadeInUp" data-wow-delay="0.4s">
+                                <span class="num"> 8 </span>
+                                <h4> ინტერესები ელექტრონული სერვისების მიმართ</h4>
+                                <div class="text"> ელექტრონული გადასახადი, ციფრული ხელმოწერა, ელექტრონული რეცეპტი,
+                                    სამართალი და საზოგადოებრივი უსაფრთხოება
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </div>
-            <img src="assets/img/choose_us/choose_lines.svg" alt="" class="choose-us-img">
-            <img src="assets/img/choose_us/choose_brands.png" alt="" class="choose-us-brands">
-            <img src="assets/img/choose_us/choose_bubbles.png" alt="" class="choose-us-bubbles">
         </section>
-        <!-- ====== end choose-us====== -->
+        <!-- ====== end process ====== -->
+
 
 
         <!-- ====== start portfolio ====== -->
@@ -580,9 +679,9 @@
                 <div class="row">
                     <div class="col offset-lg-1">
                         <div class="section-head mb-60">
-                            <h6 class="color-main text-uppercase wow fadeInUp">Portfolio</h6>
+                            <h6 class="color-main text-uppercase wow fadeInUp">თემები</h6>
                             <h2 class="wow fadeInUp">
-                                Latest Projects <span class="fw-normal">From Our Team</span>
+                                ბოლო თემები<span class="fw-normal"></span>
                             </h2>
                         </div>
                     </div>
@@ -598,17 +697,18 @@
                                         </div>
                                         <div class="info">
                                             <h5>
-                                                <a href="page-single-project-5.html"> Infrastructure Upgrade </a>
+                                                <a href="page-single-project-5.html">მედიკამენტების რეფერენტული
+                                                    ფასი</a>
                                             </h5>
-                                            <small class="d-block color-main text-uppercase"><a href="#">IT
-                                                    Consultation</a></small>
+                                            <small class="d-block color-main text-uppercase"><a
+                                                    href="#">მედიკამენტები</a></small>
                                             <div class="text">
-                                                Trust our top minds to eliminate workflow pain points, implement new
-                                                tech & app.
+                                                საქართველოს მთავრობის გადაწყვეტილებით ქრონიკულ დაავადებათა სამკურნალო
+                                                მედიკამენტების პროგრამა ფართოვდება
                                             </div>
                                             <div class="tags">
-                                                <a href="#">Consultation</a>
-                                                <a href="#">Management</a>
+                                                <a href="#">ინფრასტუქტურა</a>
+                                                <a href="#">პროექტები</a>
                                             </div>
                                         </div>
                                     </div>
@@ -616,23 +716,21 @@
                                 <div class="swiper-slide">
                                     <div class="portfolio-card">
                                         <div class="img">
-                                            <img src="assets/img/projects/prog/2.png" alt="">
+                                            <img src="assets/img/projects/prog/1.jpeg" alt="">
                                         </div>
                                         <div class="info">
                                             <h5>
-                                                <a href="page-single-project-5.html"> Criftocy Landing Page </a>
+                                                <a href="page-single-project-5.html">ციფრული ტექნოლოგიები</a>
                                             </h5>
-                                            <small class="d-block color-main text-uppercase"><a href="#">Website
-                                                    Development,</a> <a href="#">UI/UX Design</a></small>
+                                            <small class="d-block color-main text-uppercase"><a
+                                                    href="#">მედიკამენტები</a></small>
                                             <div class="text">
-                                                Trust our top minds to eliminate workflow pain points, implement new
-                                                tech & app.
+                                                საინფორმაციო ტექნოლოგიებისა და კომუნიკაციების სექტორი გახდა ყველაზე
+                                                მაღალანაზღაურებადი სფერო საქართველოში
                                             </div>
                                             <div class="tags">
-                                                <a href="#">WordPress</a>
-                                                <a href="#">PHP</a>
-                                                <a href="#">HTML/CSS</a>
-                                                <a href="#">Figma</a>
+                                                <a href="#">ინფრასტუქტურა</a>
+                                                <a href="#">პროექტები</a>
                                             </div>
                                         </div>
                                     </div>
@@ -640,22 +738,22 @@
                                 <div class="swiper-slide">
                                     <div class="portfolio-card">
                                         <div class="img">
-                                            <img src="assets/img/projects/prog/3.jpeg" alt="">
+                                            <img src="assets/img/projects/prog/1.jpeg" alt="">
                                         </div>
                                         <div class="info">
                                             <h5>
-                                                <a href="page-single-project-5.html"> AR/VR War 1986 Game </a>
+                                                <a href="page-single-project-5.html">მედიკამენტების რეფერენტული
+                                                    ფასი</a>
                                             </h5>
-                                            <small class="d-block color-main text-uppercase"><a href="#">Game
-                                                    Developemnt</a></small>
+                                            <small class="d-block color-main text-uppercase"><a
+                                                    href="#">მედიკამენტები</a></small>
                                             <div class="text">
-                                                Trust our top minds to eliminate workflow pain points, implement new
-                                                tech & app.
+                                                საქართველოს მთავრობის გადაწყვეტილებით ქრონიკულ დაავადებათა სამკურნალო
+                                                მედიკამენტების პროგრამა ფართოვდება
                                             </div>
                                             <div class="tags">
-                                                <a href="#">VR/AR</a>
-                                                <a href="#">iOS & Android</a>
-                                                <a href="#">Unity 2D/3D</a>
+                                                <a href="#">ინფრასტუქტურა</a>
+                                                <a href="#">პროექტები</a>
                                             </div>
                                         </div>
                                     </div>
@@ -663,23 +761,22 @@
                                 <div class="swiper-slide">
                                     <div class="portfolio-card">
                                         <div class="img">
-                                            <img src="assets/img/projects/prog/2.png" alt="">
+                                            <img src="assets/img/projects/prog/1.jpeg" alt="">
                                         </div>
                                         <div class="info">
                                             <h5>
-                                                <a href="page-single-project-5.html"> Criftocy Landing Page </a>
+                                                <a href="page-single-project-5.html">მედიკამენტების რეფერენტული
+                                                    ფასი</a>
                                             </h5>
-                                            <small class="d-block color-main text-uppercase"><a href="#">Website
-                                                    Development,</a> <a href="#">UI/UX Design</a></small>
+                                            <small class="d-block color-main text-uppercase"><a
+                                                    href="#">მედიკამენტები</a></small>
                                             <div class="text">
-                                                Trust our top minds to eliminate workflow pain points, implement new
-                                                tech & app.
+                                                საქართველოს მთავრობის გადაწყვეტილებით ქრონიკულ დაავადებათა სამკურნალო
+                                                მედიკამენტების პროგრამა ფართოვდება
                                             </div>
                                             <div class="tags">
-                                                <a href="#">WordPress</a>
-                                                <a href="#">PHP</a>
-                                                <a href="#">HTML/CSS</a>
-                                                <a href="#">Figma</a>
+                                                <a href="#">ინფრასტუქტურა</a>
+                                                <a href="#">პროექტები</a>
                                             </div>
                                         </div>
                                     </div>
@@ -794,10 +891,8 @@
         <section class="team section-padding pt-0 style-1">
             <div class="container">
                 <div class="section-head mb-60 text-center">
-                    <h6 class="color-main text-uppercase wow fadeInUp">meet our expert</h6>
-                    <h2 class="wow fadeInUp">
-                        Clients Satisfaction, <span class="fw-normal">Our Reputation</span>
-                    </h2>
+                    <h6 class="color-main text-uppercase wow fadeInUp">ჩვენი გუნდი</h6>
+
                 </div>
                 <div class="content">
                     <div class="team_box wow fadeInUp" data-wow-delay="0">
