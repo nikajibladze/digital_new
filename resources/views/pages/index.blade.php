@@ -14,8 +14,8 @@
                                 </h2>
                             </div>
                             <div class="text">
-                                We transform businesses of most major sectors with powerful and adaptable digital
-                                solutions that satisfy the needs of today.
+                                {{-- We transform businesses of most major sectors with powerful and adaptable digital
+                                solutions that satisfy the needs of today. --}}
                             </div>
                             <div class="bttns mt-5">
                                 <a href="{{ route('share') }}" class="btn btn-dark">

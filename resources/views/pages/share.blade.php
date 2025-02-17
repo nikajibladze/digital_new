@@ -13,7 +13,7 @@
             <div class="container">
                 <div class="section-head text-center mb-100 style-5">
                     <h2 class="mb-20"> გაუზიარე შენი მოსაზრება <span> სახელმწიფოს </span> </h2>
-                    <p>We will contact again after receive your request in 24h</p>
+
                 </div>
                 <div class="row gx-5">
                     <div class="col-lg-12 border-end brd-gray">
