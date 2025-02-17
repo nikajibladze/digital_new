@@ -18,7 +18,7 @@
                                 solutions that satisfy the needs of today.
                             </div>
                             <div class="bttns mt-5">
-                                <a href="https://egov.ge/ministri" class="btn btn-dark">
+                                <a href="{{ route('share') }}" class="btn btn-dark">
                                     <span>გაზიარება</span>
                                 </a>
                                 <a href="https://youtu.be/pGbIOC83-So?t=21" data-lity class="vid-btn">

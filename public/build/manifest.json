@@ -1,13 +1,33 @@
 {
+  "node_modules/jstree/dist/themes/default/32px.png": {
+    "file": "assets/32px-CHwblES-.png",
+    "src": "node_modules/jstree/dist/themes/default/32px.png"
+  },
+  "node_modules/jstree/dist/themes/default/40px.png": {
+    "file": "assets/40px-fA5gcXpO.png",
+    "src": "node_modules/jstree/dist/themes/default/40px.png"
+  },
+  "node_modules/jstree/dist/themes/default/throbber.gif": {
+    "file": "assets/throbber-DhAvNIJO.gif",
+    "src": "node_modules/jstree/dist/themes/default/throbber.gif"
+  },
   "resources/css/app.css": {
-    "file": "assets/app-BoPAZEHV.css",
+    "file": "assets/app-DtKDtRyO.css",
     "src": "resources/css/app.css",
     "isEntry": true
   },
   "resources/js/app.js": {
-    "file": "assets/app-CqflisoM.js",
+    "file": "assets/app-DbIT-GSv.js",
     "name": "app",
     "src": "resources/js/app.js",
-    "isEntry": true
+    "isEntry": true,
+    "css": [
+      "assets/app-C3PkNtcq.css"
+    ],
+    "assets": [
+      "assets/32px-CHwblES-.png",
+      "assets/throbber-DhAvNIJO.gif",
+      "assets/40px-fA5gcXpO.png"
+    ]
   }
 }

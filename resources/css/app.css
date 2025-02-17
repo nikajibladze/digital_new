@@ -1,3 +1,10 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+/* Custom style for jsTree icon */
+.jstree-themeicon-custom {
+
+    background-position: center center !important;
+    background-size: contain !important;
+    width: 30px;
+    /* Set custom width if needed */
+    height: 30px;
+    /* Set custom height if needed */
+}
