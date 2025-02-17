@@ -304,21 +304,21 @@
                     <div class="col-lg-4">
                         <div class="foot_subscribe">
                             <h6 class="link_title">
-                                Newsletter
+                                გამოწერა
                             </h6>
                             <p>
-                                Register now to get latest updates on promotions & coupons.
+                                გამოიწერე სიახლეები რათა არ გამოტოვოთ ახალი ამბები
                             </p>
                             <div class="input-group my-4">
-                                <input type="text" class="form-control" placeholder="Enter your email"
+                                <input type="text" class="form-control" placeholder="თქვენი ელ-ფოსტა"
                                     aria-label="Enter your email" aria-describedby="button-addon2">
                                 <button class="btn butn-gard border-0 text-white px-3" type="button"
                                     id="button-addon2">
                                     <span>გამოწერა</span>
                                 </button>
                             </div>
-                            <p class="fst-italic">By subscribing, you accepted the our <a href="#"
-                                    class="text-decoration-underline"> Policy</a></p>
+                            {{-- <p class="fst-italic">By subscribing, you accepted the our <a href="#"
+                                    class="text-decoration-underline"> Policy</a></p> --}}
                         </div>
                     </div>
                 </div>

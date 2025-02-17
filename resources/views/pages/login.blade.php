@@ -96,7 +96,7 @@
                                                         <div class="form-group group-icon mb-20">
                                                             <input type="text" class="form-control"
                                                                 placeholder="ორგანიზაციის სახელი">
-                                                            <span class="icon"> <i class="fas fa-user"></i> </span>
+                                                            <span class="icon"> <i class="fas fa-home"></i> </span>
                                                         </div>
                                                     </div>
                                                     <div class="col-lg-6 mt-3">
@@ -111,14 +111,14 @@
                                                         <div class="form-group group-icon mt-3 mt-lg-0 mb-20">
                                                             <input type="number" class="form-control"
                                                                 placeholder="ელ-ფოსტა">
-                                                            <span class="icon"> <i class="fas fa-barcode"></i> </span>
+                                                            <span class="icon"> <i class="fas fa-envelope"></i> </span>
                                                         </div>
                                                     </div>
                                                     <div class="col-lg-6">
                                                         <div class="form-group group-icon mt-3 mt-lg-0 mb-20">
                                                             <input type="email" class="form-control"
                                                                 placeholder="საიდენტიფიკაციო ნომერი">
-                                                            <span class="icon"> <i class="fas fa-mobile"></i> </span>
+                                                            <span class="icon"> <i class="fas fa-barcode"></i> </span>
                                                         </div>
                                                     </div>
                                                     <div class="col-lg-6">
