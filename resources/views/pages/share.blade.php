@@ -82,8 +82,8 @@
                                         <div class="form-group mb-20">
                                             <select name="option" class="form-select">
                                                 <option value="" selected>მიმართულება</option>
-                                                <option value="option 1">option 1</option>
-                                                <option value="option 2">option 2</option>
+                                                <option value="option 1">ჯანდაცვა</option>
+                                                <option value="option 2">სოციალური</option>
                                             </select>
                                         </div>
                                     </div>
@@ -91,8 +91,10 @@
                                         <div class="form-group mb-20">
                                             <select name="option" class="form-select">
                                                 <option value="" selected>თემა</option>
-                                                <option value="option 1">option 1</option>
-                                                <option value="option 2">option 2</option>
+                                                <option value="option 1">მედიკამენტები</option>
+                                                <option value="option 2">ჯანმრთელობა</option>
+                                                <option value="option 3">მოწყობილობები</option>
+                                                <option value="option 4">სამედიცინო დაწესებულებები</option>
                                             </select>
                                         </div>
                                     </div>
@@ -100,27 +102,34 @@
                                         <div class="form-group mb-20">
                                             <select name="option" class="form-select">
                                                 <option value="" selected>მოსაზრების ტიპი</option>
-                                                <option value="option 1">option 1</option>
-                                                <option value="option 2">option 2</option>
+                                                <option value="option 1">ახალი იდეა</option>
+                                                <option value="option 2">საჩივარი</option>
+                                                <option value="option 3">პრობლემა</option>
+                                                <option value="option 4">დახმარება</option>
+                                                <option value="option 5">სხვა</option>
                                             </select>
                                         </div>
                                     </div>
-                                    <div class="col-lg-12">
+                                    <div class="col-lg-12 mb-20">
                                         <div class="form-group">
                                             <textarea rows="10" name="message" class="form-control" placeholder="ტექსტი"></textarea>
                                         </div>
                                     </div>
-                                    <div class="col-lg-12 text-center">
-                                        <div class="form-check d-inline-flex mt-30 mb-30">
-                                            <input class="form-check-input me-2 mt-0" type="checkbox" value=""
-                                                id="flexCheckDefault">
-                                            <label class="form-check-label small" for="flexCheckDefault">
-                                                By submitting, i’m agreed to the <a href="#"
-                                                    class="text-decoration-underline">Terms & Conditons</a>
-                                            </label>
+                                    <div class="col-lg-12 text-center mb-20">
+                                        <div class="form-check form-check-inline">
+                                            <input class="form-check-input" type="radio" name="inlineRadioOptions"
+                                                id="inlineRadio1" value="option1">
+                                            <label class="form-check-label" for="inlineRadio1">კონფედენციალური</label>
+                                        </div>
+                                        <div class="form-check form-check-inline">
+                                            <input class="form-check-input" type="radio" name="inlineRadioOptions"
+                                                id="inlineRadio2" value="option2">
+                                            <label class="form-check-label" for="inlineRadio2">საჯარო</label>
                                         </div>
                                     </div>
-                                    <div class="col-lg-12 text-center">
+
+
+                                    <div class="col-lg-12 text-center ">
                                         <input type="submit" value="გაზიარება"
                                             class="btn rounded-pill blue5-3Dbutn hover-blue2 sm-butn fw-bold text-light">
                                     </div>

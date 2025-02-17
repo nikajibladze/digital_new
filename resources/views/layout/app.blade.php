@@ -176,6 +176,16 @@
                     </div>
                 </div>
             </div>
+            <div class="nav-side">
+                <div class="d-flex align-items-center">
+                    <a href="{{ route('login') }}" class="search-icon me-4">
+                        <i class="bi bi-person"></i>
+                    </a>
+                    <a href="{{ route('login') }}" class="btn rounded-pill brd-gray hover-blue4 sm-butn fw-bold">
+                        <span>ავტორიზაცია <i class="bi bi-arrow-right ms-1"></i> </span>
+                    </a>
+                </div>
+            </div>
         </div>
     </nav>
     <!-- ====== end navbar ====== -->
@@ -202,28 +212,28 @@
                     <div class="col-lg-4">
                         <div class="foot_info">
                             <a href="#" class="logo mb-3">
-                                <img src="assets/img/logo_cl.png" alt="">
+                                <img src="assets/img/gerbi.png" alt="">
                             </a>
                             <div class="text mb-4">
-                                Best IT Solutions & Technology WordPress <br> Theme for Your Busines
+                                გაუზიარე შენი მოსაზრება სახელმწიფოს
                             </div>
                             <ul class="mb-4">
                                 <li class="d-flex">
                                     <i class="bi bi-house me-3"></i>
                                     <a href="#">
-                                        <span>58 Howard St, San Francisco, CA 941</span>
+                                        <span>საქართველო</span>
                                     </a>
                                 </li>
                                 <li class="d-flex">
                                     <i class="bi bi-envelope me-3"></i>
                                     <a href="#">
-                                        <span>contact@Iteck.co</span>
+                                        <span>test@test.ge</span>
                                     </a>
                                 </li>
                                 <li class="d-flex">
                                     <i class="bi bi-phone me-3"></i>
                                     <a href="#">
-                                        <span>(+23) 5535 68 68</span>
+                                        <span>(+995) 555 68 68</span>
                                     </a>
                                 </li>
                             </ul>
@@ -247,30 +257,22 @@
                         <div class="links">
                             <div class="cont">
                                 <h6 class="link_title">
-                                    Services
+                                    სერვისები
                                 </h6>
                                 <ul>
                                     <li>
-                                        <a href="#">IT Consultations </a>
+                                        <a href="#">ჯანდაცვა </a>
                                     </li>
                                     <li>
-                                        <a href="#">Data Security </a>
+                                        <a href="#">ელექტორნული მმართველობა</a>
                                     </li>
                                     <li>
-                                        <a href="#">Website Development </a>
+                                        <a href="#">კიბერუსაფრთხოება </a>
                                     </li>
                                     <li>
-                                        <a href="#">UI/UX Design </a>
+                                        <a href="#">ჭკვიანი ქალაქი მობილობა </a>
                                     </li>
-                                    <li>
-                                        <a href="#">Cloud Services </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Game Development </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">CRM & Software </a>
-                                    </li>
+
                                 </ul>
                             </div>
                         </div>
@@ -279,36 +281,22 @@
                         <div class="links">
                             <div class="cont">
                                 <h6 class="link_title">
-                                    Information
+                                    ინფორმაცია
                                 </h6>
                                 <ul>
                                     <li>
-                                        <a href="#">About Iteck </a>
+                                        <a href="#">ჯანმრთელობა</a>
                                     </li>
                                     <li>
-                                        <a href="#">Investors </a>
+                                        <a href="#">მედიკამენტები </a>
                                     </li>
                                     <li>
-                                        <a href="#">Blog </a>
+                                        <a href="#">მოწყობილობები </a>
                                     </li>
                                     <li>
-                                        <a href="#">Career </a>
+                                        <a href="#">სამედიცინო დაწესებულებები </a>
                                     </li>
-                                    <li>
-                                        <a href="#">Contact </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Affiliate Program </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">How It Works </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Pricing Plan </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Covid-19 Update </a>
-                                    </li>
+
                                 </ul>
                             </div>
                         </div>
@@ -326,7 +314,7 @@
                                     aria-label="Enter your email" aria-describedby="button-addon2">
                                 <button class="btn butn-gard border-0 text-white px-3" type="button"
                                     id="button-addon2">
-                                    <span>Subscribe</span>
+                                    <span>გამოწერა</span>
                                 </button>
                             </div>
                             <p class="fst-italic">By subscribing, you accepted the our <a href="#"
@@ -341,7 +329,7 @@
                         <p>
                             © 2023 Copyrights by <a href="#" class="text-white text-decoration-underline">Iteck
                                 Co.</a> All Rights Reserved by <a href="#"
-                                class="text-white text-decoration-underline"> ThemesCamp </a>
+                                class="text-white text-decoration-underline"> გაუზიარე შენი მოსაზრება </a>
                         </p>
                     </div>
                 </div>

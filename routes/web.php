@@ -14,4 +14,8 @@ Route::get('/share', function () {
     return view('pages/share');
 })->name('share');
 
+Route::get('/login', function () {
+    return view('pages/login');
+})->name('login');
+
 Route::get('/get-tree-data', [StructuresController::class, 'getTreeData']);
