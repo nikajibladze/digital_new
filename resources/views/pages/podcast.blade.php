@@ -28,12 +28,13 @@
                                                         <i class="far fa-clock me-1"></i> Posted on <a href="#">3 Days
                                                             ago</a> </small>
                                                     <h2 class="title">
-                                                        <a href="page-single-post-5.html">Solutions For Big Data Issue,
-                                                            Expert Perspective</a>
+                                                        <a href="https://digital.gov/event/2025/01/16/uswds-monthly-call-january-2025/"
+                                                            target="_blank">SUSWDS ყოველთვიური ზარი - 2025
+                                                            წლის იანვარი</a>
                                                     </h2>
-                                                    <p class="fs-13px mt-10 text-light text-info">If there’s one way that
-                                                        wireless technology has changed the way we work, it’s that will
-                                                        everyone is now connected [...]</p>
+                                                    <p class="fs-13px mt-10 text-light text-info">შეიტყვეთ აშშ-ს ვებ
+                                                        დიზაინის სისტემის საფუძვლები, როგორ დაიწყოთ დიზაინის სისტემა და რა
+                                                        მოელის შემდეგ USWDS-ს 2025 წელს.[...]</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -54,12 +55,15 @@
                                                         <i class="far fa-clock me-1"></i> Posted on <a href="#">3 Days
                                                             ago</a> </small>
                                                     <h2 class="title">
-                                                        <a href="page-single-post-5.html">Solutions For Big Data Issue,
-                                                            Expert Perspective</a>
+                                                        <a href="https://digital.gov/2025/01/02/rebuilding-cdc-gov/"
+                                                            target="_blank">CDC.gov-ის
+                                                            აღდგენა</a>
                                                     </h2>
-                                                    <p class="fs-13px mt-10 text-light text-info">If there’s one way that
-                                                        wireless technology has changed the way we work, it’s that will
-                                                        everyone is now connected [...]</p>
+                                                    <p class="fs-13px mt-10 text-light text-info">შეიტყვეთ, თუ როგორ
+                                                        გამოიყენა CDC.gov-ის გუნდმა თამამი
+                                                        „სუფთა ფიქალის“ მიდგომა საიტის ხელახლა წარმოსახვისთვის და
+                                                        მომხმარებლის რეალური
+                                                        საჭიროებების დასაკმაყოფილებლად. [...]</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -80,12 +84,18 @@
                                                         <i class="far fa-clock me-1"></i> Posted on <a href="#">3 Days
                                                             ago</a> </small>
                                                     <h2 class="title">
-                                                        <a href="page-single-post-5.html">Solutions For Big Data Issue,
-                                                            Expert Perspective</a>
+                                                        <a href="https://digital.gov/2024/12/31/reduce-remove-remediate-pdfs-and-government-websites/"
+                                                            target="_blank">შემცირება,
+                                                            წაშლა,
+                                                            გამოსწორება: PDF და სამთავრობო ვებსაიტები</a>
                                                     </h2>
-                                                    <p class="fs-13px mt-10 text-light text-info">If there’s one way that
-                                                        wireless technology has changed the way we work, it’s that will
-                                                        everyone is now connected [...]</p>
+                                                    <p class="fs-13px mt-10 text-light text-info">ბოლო დროს სამთავრობო
+                                                        საზოგადოების დისკუსიაში, ჩვენ
+                                                        გავუზიარეთ რჩევები სამთავრობო ვებსაიტებზე PDF-ების გამოყენების
+                                                        გამოსასწორებლად,
+                                                        საჭიროებების დაბალანსებაზე ფოკუსირება, ფორმატების არჩევა, დაწყებული
+                                                        გამოსწორებები და დოკუმენტების ხელმისაწვდომობის უზრუნველყოფა
+                                                        ყველასთვის. [...]</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -121,7 +131,7 @@
                                     <a href="#"
                                         class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5">News</a>
                                     <i class="bi bi-clock me-1"></i>
-                                    <a href="#" class="op-8">Posted on 3 Days ago</a>
+                                    <a href="#" class="op-8">Posted on 3 დღის წინ</a>
                                 </small>
                                 <h5 class="fw-bold mt-10 title">
                                     <a href="page-single-post-5.html"> პოდკასტი 2023</a>
@@ -159,7 +169,7 @@
                                     <a href="#"
                                         class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5">News</a>
                                     <i class="bi bi-clock me-1"></i>
-                                    <a href="#" class="op-8">Posted on 3 Days ago</a>
+                                    <a href="#" class="op-8">Posted on 3 დღის წინ</a>
                                 </small>
                                 <h5 class="fw-bold mt-10 title">
                                     <a href="page-single-post-5.html">ახალი პოდკასტი</a>
@@ -197,7 +207,7 @@
                                     <a href="#"
                                         class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5">News</a>
                                     <i class="bi bi-clock me-1"></i>
-                                    <a href="#" class="op-8">Posted on 3 Days ago</a>
+                                    <a href="#" class="op-8">Posted on 3 დღის წინ</a>
                                 </small>
                                 <h5 class="fw-bold mt-10 title">
                                     <a href="page-single-post-5.html">პოდკასტი ახალი 3</a>
@@ -250,12 +260,15 @@
                                                 class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5 fw-bold">
                                                 სიახლე </a>
                                             <i class="bi bi-clock me-1"></i>
-                                            <a href="#" class="op-8">12 Days ago</a>
+                                            <a href="#" class="op-8">12 დღის წინ</a>
                                         </small>
-                                        <a href="page-single-post-5.html" class="card-title mb-10">How To Become A Python
-                                            Develop Expert</a>
-                                        <p class="fs-13px color-666">If there’s one way that wireless technology has
-                                            changed the way we work, it’s that will everyone [...]</p>
+                                        <a href="https://digital.gov/event/2025/01/16/uswds-monthly-call-january-2025/"
+                                            target="_blank" class="card-title mb-10">USWDS ყოველთვიური ზარი
+                                            - 2025 წლის იანვარი</a>
+                                        <p class="fs-13px color-666">
+                                            შეიტყვეთ აშშ-ს ვებ დიზაინის სისტემის საფუძვლები, როგორ დაიწყოთ დიზაინის სისტემა
+                                            და რა მოელის შემდეგ USWDS-ს 2025 წელს.
+                                            [...]</p>
                                         <div
                                             class="auther-comments d-flex small align-items-center justify-content-between op-9">
                                             <div class="l_side d-flex align-items-center">
@@ -264,7 +277,7 @@
                                                     a
                                                 </span>
                                                 <a href="#">
-                                                    <small class="text-muted">By</small> Admin
+                                                    <small class="text-muted"></small> ადმინისტრატორი
                                                 </a>
                                             </div>
                                             <div class="r-side mt-1">
@@ -291,12 +304,13 @@
                                             <a href="#"
                                                 class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5 fw-bold">news</a>
                                             <i class="bi bi-clock me-1"></i>
-                                            <a href="#" class="op-8">12 Days ago</a>
+                                            <a href="#" class="op-8">12 დღის წინ</a>
                                         </small>
-                                        <a href="page-single-post-5.html" class="card-title mb-10">VR Game, Oppoturnity &
-                                            Challenge</a>
-                                        <p class="fs-13px color-666">If there’s one way that wireless technology has
-                                            changed the way we work, it’s that will everyone [...]</p>
+                                        <a href="https://digital.gov/2025/01/02/rebuilding-cdc-gov/" target="_blank"
+                                            class="card-title mb-10">CDC.gov-ის აღდგენა</a>
+                                        <p class="fs-13px color-666">შეიტყვეთ, თუ როგორ გამოიყენა CDC.gov-ის გუნდმა თამამი
+                                            „სუფთა ფიქალის“ მიდგომა საიტის ხელახლა წარმოსახვისთვის და მომხმარებლის რეალური
+                                            საჭიროებების დასაკმაყოფილებლად. [...]</p>
                                         <div
                                             class="auther-comments d-flex small align-items-center justify-content-between op-9">
                                             <div class="l_side d-flex align-items-center">
@@ -305,7 +319,7 @@
                                                     a
                                                 </span>
                                                 <a href="#">
-                                                    <small class="text-muted">By</small> Admin
+                                                    <small class="text-muted"></small> ადმინისტრატორი
                                                 </a>
                                             </div>
                                             <div class="r-side mt-1">
@@ -330,15 +344,18 @@
                                     <div class="card-body p-0">
                                         <small class="d-block date text">
                                             <a href="#"
-                                                class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5 fw-bold">tips
-                                                & tricks</a>
+                                                class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5 fw-bold">სიახლე</a>
                                             <i class="bi bi-clock me-1"></i>
-                                            <a href="#" class="op-8">12 Days ago</a>
+                                            <a href="#" class="op-8">12 დღის წინ</a>
                                         </small>
-                                        <a href="page-single-post-5.html" class="card-title mb-10">6 Tips To Help You
-                                            Build Your Social Media Effeciency & Better</a>
-                                        <p class="fs-13px color-666">If there’s one way that wireless technology has
-                                            changed the way we work, it’s that will everyone [...]</p>
+                                        <a href="https://digital.gov/2024/12/31/reduce-remove-remediate-pdfs-and-government-websites/"
+                                            target="_blank" class="card-title mb-10">შემცირება, წაშლა,
+                                            გამოსწორება: PDF და სამთავრობო ვებსაიტები</a>
+                                        <p class="fs-13px color-666">ბოლო დროს სამთავრობო საზოგადოების დისკუსიაში, ჩვენ
+                                            გავუზიარეთ რჩევები სამთავრობო ვებსაიტებზე PDF-ების გამოყენების გამოსასწორებლად,
+                                            საჭიროებების დაბალანსებაზე ფოკუსირება, ფორმატების არჩევა, დაწყებული
+                                            გამოსწორებები და დოკუმენტების ხელმისაწვდომობის უზრუნველყოფა ყველასთვის. [...]
+                                        </p>
                                         <div
                                             class="auther-comments d-flex small align-items-center justify-content-between op-9">
                                             <div class="l_side d-flex align-items-center">
@@ -347,7 +364,7 @@
                                                     a
                                                 </span>
                                                 <a href="#">
-                                                    <small class="text-muted">By</small> Admin
+                                                    <small class="text-muted"></small> ადმინისტრატორი
                                                 </a>
                                             </div>
                                             <div class="r-side mt-1">
@@ -372,15 +389,15 @@
                                     <div class="card-body p-0">
                                         <small class="d-block date text">
                                             <a href="#"
-                                                class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5 fw-bold">tips
-                                                & tricks</a>
+                                                class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5 fw-bold">სიახლე</a>
                                             <i class="bi bi-clock me-1"></i>
-                                            <a href="#" class="op-8">12 Days ago</a>
+                                            <a href="#" class="op-8">12 დღის წინ</a>
                                         </small>
-                                        <a href="page-single-post-5.html" class="card-title mb-10">The New Trend Of
-                                            Marketing With Tiktok, Should Or Not?</a>
-                                        <p class="fs-13px color-666">If there’s one way that wireless technology has
-                                            changed the way we work, it’s that will everyone [...]</p>
+                                        <a href="https://digital.gov/2024/12/23/designing-a-multilingual-future/"
+                                            target="_blank" class="card-title mb-10">მრავალენოვანი მომავლის
+                                            შექმნა: საუბარი ლორა გოდფრისთან</a>
+                                        <p class="fs-13px color-666">პენსიაზე გასვლის წინა დღეს, ლორა გოდფრი ასახავს
+                                            მულტილინგვულობას და სამთავრობო ინფორმაციაზე თანაბარ ხელმისაწვდომობას. [...]</p>
                                         <div
                                             class="auther-comments d-flex small align-items-center justify-content-between op-9">
                                             <div class="l_side d-flex align-items-center">
@@ -389,7 +406,7 @@
                                                     a
                                                 </span>
                                                 <a href="#">
-                                                    <small class="text-muted">By</small> Admin
+                                                    <small class="text-muted"></small> ადმინისტრატორი
                                                 </a>
                                             </div>
                                             <div class="r-side mt-1">
@@ -414,15 +431,18 @@
                                     <div class="card-body p-0">
                                         <small class="d-block date text">
                                             <a href="#"
-                                                class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5 fw-bold">tips
-                                                & tricks</a>
+                                                class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5 fw-bold">სიახლე</a>
                                             <i class="bi bi-clock me-1"></i>
-                                            <a href="#" class="op-8">12 Days ago</a>
+                                            <a href="#" class="op-8">12 დღის წინ</a>
                                         </small>
-                                        <a href="page-single-post-5.html" class="card-title mb-10">Workflow Strategy For
-                                            E-Shop</a>
-                                        <p class="fs-13px color-666">If there’s one way that wireless technology has
-                                            changed the way we work, it’s that will everyone [...]</p>
+                                        <a href="https://www.section508.gov/manage/section-508-assessment/2024/executive-summary/"
+                                            class="card-title
+                                            mb-10">FY 24
+                                            სამთავრობო ნაწილი
+                                            508 შეფასება</a>
+                                        <p class="fs-13px color-666">2024 წლის სამთავრობო განყოფილების 508 შეფასება ხაზს
+                                            უსვამს პროგრესს და მიმდინარე გამოწვევებს ციფრული ხელმისაწვდომობის ფედერალურ
+                                            მცდელობებში. [...]</p>
                                         <div
                                             class="auther-comments d-flex small align-items-center justify-content-between op-9">
                                             <div class="l_side d-flex align-items-center">
@@ -431,7 +451,7 @@
                                                     a
                                                 </span>
                                                 <a href="#">
-                                                    <small class="text-muted">By</small> Admin
+                                                    <small class="text-muted"></small> ადმინისტრატორი
                                                 </a>
                                             </div>
                                             <div class="r-side mt-1">
@@ -456,14 +476,18 @@
                                     <div class="card-body p-0">
                                         <small class="d-block date text">
                                             <a href="#"
-                                                class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5 fw-bold">tips
-                                                & tricks</a>
+                                                class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5 fw-bold">სიახლე</a>
                                             <i class="bi bi-clock me-1"></i>
-                                            <a href="#" class="op-8">12 Days ago</a>
+                                            <a href="#" class="op-8">12 დღის წინ</a>
                                         </small>
-                                        <a href="page-single-post-5.html" class="card-title mb-10">Wireframe For UI/UX</a>
-                                        <p class="fs-13px color-666">If there’s one way that wireless technology has
-                                            changed the way we work, it’s that will everyone [...]</p>
+                                        <a href="https://digital.gov/event/2024/12/19/uswds-monthly-call-december-2024/"
+                                            target="_blank" class="card-title mb-10">USWDS ყოველთვიური ზარი - 2024 წლის
+                                            დეკემბერი</a>
+                                        <p class="fs-13px color-666">
+                                            აშშ-ის ვებ დიზაინის სისტემის გუნდს უერთდება ვებსაიტების ფედერალური სტანდარტების
+                                            გუნდი, რათა გაუზიაროთ მეტი სტანდარტების, მათი წარმოშობის, მათ მხარდაჭერილი
+                                            კვლევისა და შემდეგი სტანდარტების შესახებ.
+                                            [...]</p>
                                         <div
                                             class="auther-comments d-flex small align-items-center justify-content-between op-9">
                                             <div class="l_side d-flex align-items-center">
@@ -472,7 +496,7 @@
                                                     a
                                                 </span>
                                                 <a href="#">
-                                                    <small class="text-muted">By</small> Admin
+                                                    <small class="text-muted"></small> ადმინისტრატორი
                                                 </a>
                                             </div>
                                             <div class="r-side mt-1">
@@ -497,15 +521,20 @@
                                     <div class="card-body p-0">
                                         <small class="d-block date text">
                                             <a href="#"
-                                                class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5 fw-bold">tips
-                                                & tricks</a>
+                                                class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5 fw-bold">სიახლე</a>
                                             <i class="bi bi-clock me-1"></i>
-                                            <a href="#" class="op-8">12 Days ago</a>
+                                            <a href="#" class="op-8">12 დღის წინ</a>
                                         </small>
-                                        <a href="page-single-post-5.html" class="card-title mb-10">Freelancer Days 2023,
-                                            What’s new?</a>
-                                        <p class="fs-13px color-666">If there’s one way that wireless technology has
-                                            changed the way we work, it’s that will everyone [...]</p>
+                                        <a href="https://18f.gsa.gov/2024/12/10/how-we-measure-coaching/" target="_blank"
+                                            class="card-title mb-10">როგორ გავზომოთ
+                                            ქოუჩინგის ჩართულობის წარმატება</a>
+                                        <p class="fs-13px color-666">18F ზომავს ქოუჩინგის წარმატებას პირველად პროდუქტის
+                                            მფლობელების პროგრესის თვალყურის დევნით. თვითშეფასების და მუდმივი მხარდაჭერის
+                                            საშუალებით, მათ ყურადღება გაამახვილეს ისეთი ძირითადი უნარების განვითარებაზე,
+                                            როგორიცაა პროდუქტის აღმოჩენა და გამყიდველის მართვა. ეს მიდგომა მათ საშუალებას
+                                            აძლევდა თვალყური ადევნონ ზრდას და უზრუნველყონ, რომ სააგენტოს პარტნიორებს მიეცათ
+                                            უფლება, თავდაჯერებულად წარმართონ თავიანთი ტექნოლოგიების მოდერნიზაციის პროექტები.
+                                            [...]</p>
                                         <div
                                             class="auther-comments d-flex small align-items-center justify-content-between op-9">
                                             <div class="l_side d-flex align-items-center">
@@ -514,7 +543,7 @@
                                                     a
                                                 </span>
                                                 <a href="#">
-                                                    <small class="text-muted">By</small> Admin
+                                                    <small class="text-muted"></small> ადმინისტრატორი
                                                 </a>
                                             </div>
                                             <div class="r-side mt-1">
@@ -729,16 +758,12 @@
                                     popular tags
                                 </h6>
                                 <div class="content">
-                                    <a href="#">WordPress</a>
-                                    <a href="#">PHP</a>
-                                    <a href="#">HTML/CSS</a>
-                                    <a href="#">Figma</a>
-                                    <a href="#">Technology</a>
-                                    <a href="#">Marketing</a>
-                                    <a href="#">Consultation</a>
-                                    <a href="#">Seo</a>
-                                    <a href="#">Envato</a>
-                                    <a href="#">Psd</a>
+                                    <a href="#">ჯანდაცვა</a>
+                                    <a href="#">მედიკამენტები</a>
+                                    <a href="#">კიბერუსაფრთხოება</a>
+                                    <a href="#">ელ-მმართველობა</a>
+                                    <a href="#">მობილობა</a>
+                                    <a href="#">ჭკვიანი ქალაქი</a>
                                 </div>
                             </div>
                         </div>
