@@ -40,7 +40,57 @@
             </div>
         </section>
         <!-- ====== end solutions  ====== -->
+        <section class="contact section-padding style-6">
+            <div class="container">
+                <div class="section-head mb-60 style-6 text-center">
+                    <h2 class="mb-20"> ახალი
+                        <span> <small> დისკუსია </small> </span>
+                    </h2>
 
+                </div>
+                <div class="content">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-8">
+                            <form action="contact.php" class="form" method="post">
+                                <p class="text-center text-danger fs-12px mb-30">The field is required mark as *</p>
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <div class="form-group mb-20">
+                                            <input type="text" name="name" class="form-control"
+                                                placeholder="თემის დასახელება">
+                                        </div>
+                                    </div>
+
+
+
+                                    <div class="col-lg-12">
+                                        <div class="form-group">
+                                            <textarea name="message" rows="10" class="form-control" placeholder="ტექსტი"></textarea>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-12 text-center">
+                                        <div class="form-check d-inline-flex mt-30 mb-30">
+                                            <input class="form-check-input me-2 mt-0" type="checkbox" value=""
+                                                id="flexCheckDefault">
+                                            <label class="form-check-label small" for="flexCheckDefault">
+                                                ვეთანხმები <a href="#" class="text-decoration-underline">წესებს და
+                                                    &amp; პირობებს</a>
+                                            </label>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-12 text-center">
+                                        <input type="submit" value="გამოქვეყნება"
+                                            class="btn rounded-pill blue5-3Dbutn hover-blue2 sm-butn fw-bold text-light">
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                    <img src="assets/img/icons/contact_a.png" alt="" class="contact_a">
+                    <img src="assets/img/icons/contact_message.png" alt="" class="contact_message">
+                </div>
+            </div>
+        </section>
 
 
         <!-- ====== start all-news ====== -->
@@ -65,8 +115,8 @@
                                             <a href="#" class="op-8">12 დღის წინ</a>
                                         </small>
                                         <a href="https://digital.gov/event/2025/01/16/uswds-monthly-call-january-2025/"
-                                            target="_blank" class="card-title mb-10">USWDS ყოველთვიური ზარი
-                                            - 2025 წლის იანვარი</a>
+                                            target="_blank" class="card-title mb-10">სკოლებში ციფრული განათლების
+                                            გაუმჯობესება</a>
                                         <p class="fs-13px color-666">
                                             შეიტყვეთ აშშ-ს ვებ დიზაინის სისტემის საფუძვლები, როგორ დაიწყოთ დიზაინის სისტემა
                                             და რა მოელის შემდეგ USWDS-ს 2025 წელს.
