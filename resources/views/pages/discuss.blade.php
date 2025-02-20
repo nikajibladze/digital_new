@@ -118,8 +118,7 @@
                                             target="_blank" class="card-title mb-10">სკოლებში ციფრული განათლების
                                             გაუმჯობესება</a>
                                         <p class="fs-13px color-666">
-                                            შეიტყვეთ აშშ-ს ვებ დიზაინის სისტემის საფუძვლები, როგორ დაიწყოთ დიზაინის სისტემა
-                                            და რა მოელის შემდეგ USWDS-ს 2025 წელს.
+                                            მოსწავლეებისთვის საბაზისო პროგრამირების კურსის დადგენა
                                             [...]</p>
                                         <div
                                             class="auther-comments d-flex small align-items-center justify-content-between op-9">
@@ -154,59 +153,13 @@
                                     <div class="card-body p-0">
                                         <small class="d-block date text">
                                             <a href="#"
-                                                class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5 fw-bold">news</a>
-                                            <i class="bi bi-clock me-1"></i>
-                                            <a href="#" class="op-8">12 დღის წინ</a>
-                                        </small>
-                                        <a href="https://digital.gov/2025/01/02/rebuilding-cdc-gov/" target="_blank"
-                                            class="card-title mb-10">CDC.gov-ის აღდგენა</a>
-                                        <p class="fs-13px color-666">შეიტყვეთ, თუ როგორ გამოიყენა CDC.gov-ის გუნდმა თამამი
-                                            „სუფთა ფიქალის“ მიდგომა საიტის ხელახლა წარმოსახვისთვის და მომხმარებლის რეალური
-                                            საჭიროებების დასაკმაყოფილებლად. [...]</p>
-                                        <div
-                                            class="auther-comments d-flex small align-items-center justify-content-between op-9">
-                                            <div class="l_side d-flex align-items-center">
-                                                <span
-                                                    class="icon-10 rounded-circle d-inline-flex justify-content-center align-items-center text-uppercase bg-blue5 p-2 me-2 text-white">
-                                                    a
-                                                </span>
-                                                <a href="#">
-                                                    <small class="text-muted"></small> ადმინისტრატორი
-                                                </a>
-                                            </div>
-                                            <div class="r-side mt-1">
-                                                <i class="bi bi-chat-left-text me-1"></i>
-                                                <a href="#">24</a>
-                                                <i class="bi bi-eye ms-4 me-1"></i>
-                                                <a href="#">774k</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="card border-0 bg-transparent rounded-0 border-bottom brd-gray pb-30 mb-30">
-                            <div class="row">
-                                <div class="col-lg-5">
-                                    <div class="img img-cover">
-                                        <img src="assets/img/blog/10.png" class="radius-7" alt="...">
-                                    </div>
-                                </div>
-                                <div class="col-lg-7">
-                                    <div class="card-body p-0">
-                                        <small class="d-block date text">
-                                            <a href="#"
                                                 class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5 fw-bold">დისკუსია</a>
                                             <i class="bi bi-clock me-1"></i>
                                             <a href="#" class="op-8">12 დღის წინ</a>
                                         </small>
-                                        <a href="https://digital.gov/2024/12/31/reduce-remove-remediate-pdfs-and-government-websites/"
-                                            target="_blank" class="card-title mb-10">შემცირება, წაშლა,
-                                            გამოსწორება: PDF და სამთავრობო ვებსაიტები</a>
-                                        <p class="fs-13px color-666">ბოლო დროს სამთავრობო საზოგადოების დისკუსიაში, ჩვენ
-                                            გავუზიარეთ რჩევები სამთავრობო ვებსაიტებზე PDF-ების გამოყენების გამოსასწორებლად,
-                                            საჭიროებების დაბალანსებაზე ფოკუსირება, ფორმატების არჩევა, დაწყებული
-                                            გამოსწორებები და დოკუმენტების ხელმისაწვდომობის უზრუნველყოფა ყველასთვის. [...]
+                                        <a href="https://digital.gov/2025/01/02/rebuilding-cdc-gov/" target="_blank"
+                                            class="card-title mb-10">სასწრაფო დახმარების სისტემის რეფორმა</a>
+                                        <p class="fs-13px color-666">სასწრაფო დახმარების ბრიგადების რაოდენობის გაზრდა [...]
                                         </p>
                                         <div
                                             class="auther-comments d-flex small align-items-center justify-content-between op-9">
@@ -230,185 +183,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="card border-0 bg-transparent rounded-0 border-bottom brd-gray pb-30 mb-30">
-                            <div class="row">
-                                <div class="col-lg-5">
-                                    <div class="img img-cover">
-                                        <img src="assets/img/blog/11.png" class="radius-7" alt="...">
-                                    </div>
-                                </div>
-                                <div class="col-lg-7">
-                                    <div class="card-body p-0">
-                                        <small class="d-block date text">
-                                            <a href="#"
-                                                class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5 fw-bold">დისკუსია</a>
-                                            <i class="bi bi-clock me-1"></i>
-                                            <a href="#" class="op-8">12 დღის წინ</a>
-                                        </small>
-                                        <a href="https://digital.gov/2024/12/23/designing-a-multilingual-future/"
-                                            target="_blank" class="card-title mb-10">მრავალენოვანი მომავლის
-                                            შექმნა: საუბარი ლორა გოდფრისთან</a>
-                                        <p class="fs-13px color-666">პენსიაზე გასვლის წინა დღეს, ლორა გოდფრი ასახავს
-                                            მულტილინგვულობას და სამთავრობო ინფორმაციაზე თანაბარ ხელმისაწვდომობას. [...]</p>
-                                        <div
-                                            class="auther-comments d-flex small align-items-center justify-content-between op-9">
-                                            <div class="l_side d-flex align-items-center">
-                                                <span
-                                                    class="icon-10 rounded-circle d-inline-flex justify-content-center align-items-center text-uppercase bg-blue5 p-2 me-2 text-white">
-                                                    a
-                                                </span>
-                                                <a href="#">
-                                                    <small class="text-muted"></small> ადმინისტრატორი
-                                                </a>
-                                            </div>
-                                            <div class="r-side mt-1">
-                                                <i class="bi bi-chat-left-text me-1"></i>
-                                                <a href="#">24</a>
-                                                <i class="bi bi-eye ms-4 me-1"></i>
-                                                <a href="#">774k</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="card border-0 bg-transparent rounded-0 border-bottom brd-gray pb-30 mb-30">
-                            <div class="row">
-                                <div class="col-lg-5">
-                                    <div class="img img-cover">
-                                        <img src="assets/img/blog/9.png" class="radius-7" alt="...">
-                                    </div>
-                                </div>
-                                <div class="col-lg-7">
-                                    <div class="card-body p-0">
-                                        <small class="d-block date text">
-                                            <a href="#"
-                                                class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5 fw-bold">დისკუსია</a>
-                                            <i class="bi bi-clock me-1"></i>
-                                            <a href="#" class="op-8">12 დღის წინ</a>
-                                        </small>
-                                        <a href="https://www.section508.gov/manage/section-508-assessment/2024/executive-summary/"
-                                            class="card-title
-                                            mb-10">FY 24
-                                            სამთავრობო ნაწილი
-                                            508 შეფასება</a>
-                                        <p class="fs-13px color-666">2024 წლის სამთავრობო განყოფილების 508 შეფასება ხაზს
-                                            უსვამს პროგრესს და მიმდინარე გამოწვევებს ციფრული ხელმისაწვდომობის ფედერალურ
-                                            მცდელობებში. [...]</p>
-                                        <div
-                                            class="auther-comments d-flex small align-items-center justify-content-between op-9">
-                                            <div class="l_side d-flex align-items-center">
-                                                <span
-                                                    class="icon-10 rounded-circle d-inline-flex justify-content-center align-items-center text-uppercase bg-blue5 p-2 me-2 text-white">
-                                                    a
-                                                </span>
-                                                <a href="#">
-                                                    <small class="text-muted"></small> ადმინისტრატორი
-                                                </a>
-                                            </div>
-                                            <div class="r-side mt-1">
-                                                <i class="bi bi-chat-left-text me-1"></i>
-                                                <a href="#">24</a>
-                                                <i class="bi bi-eye ms-4 me-1"></i>
-                                                <a href="#">774k</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="card border-0 bg-transparent rounded-0 border-bottom brd-gray pb-30 mb-30">
-                            <div class="row">
-                                <div class="col-lg-5">
-                                    <div class="img img-cover">
-                                        <img src="assets/img/blog/3.jpeg" class="radius-7" alt="...">
-                                    </div>
-                                </div>
-                                <div class="col-lg-7">
-                                    <div class="card-body p-0">
-                                        <small class="d-block date text">
-                                            <a href="#"
-                                                class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5 fw-bold">დისკუსია</a>
-                                            <i class="bi bi-clock me-1"></i>
-                                            <a href="#" class="op-8">12 დღის წინ</a>
-                                        </small>
-                                        <a href="https://digital.gov/event/2024/12/19/uswds-monthly-call-december-2024/"
-                                            target="_blank" class="card-title mb-10">USWDS ყოველთვიური ზარი - 2024 წლის
-                                            დეკემბერი</a>
-                                        <p class="fs-13px color-666">
-                                            აშშ-ის ვებ დიზაინის სისტემის გუნდს უერთდება ვებსაიტების ფედერალური სტანდარტების
-                                            გუნდი, რათა გაუზიაროთ მეტი სტანდარტების, მათი წარმოშობის, მათ მხარდაჭერილი
-                                            კვლევისა და შემდეგი სტანდარტების შესახებ.
-                                            [...]</p>
-                                        <div
-                                            class="auther-comments d-flex small align-items-center justify-content-between op-9">
-                                            <div class="l_side d-flex align-items-center">
-                                                <span
-                                                    class="icon-10 rounded-circle d-inline-flex justify-content-center align-items-center text-uppercase bg-blue5 p-2 me-2 text-white">
-                                                    a
-                                                </span>
-                                                <a href="#">
-                                                    <small class="text-muted"></small> ადმინისტრატორი
-                                                </a>
-                                            </div>
-                                            <div class="r-side mt-1">
-                                                <i class="bi bi-chat-left-text me-1"></i>
-                                                <a href="#">24</a>
-                                                <i class="bi bi-eye ms-4 me-1"></i>
-                                                <a href="#">774k</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="card border-0 bg-transparent rounded-0 pb-30 mb-30 mb-lg-0 pb-lg-0">
-                            <div class="row">
-                                <div class="col-lg-5">
-                                    <div class="img img-cover">
-                                        <img src="assets/img/blog/12.png" class="radius-7" alt="...">
-                                    </div>
-                                </div>
-                                <div class="col-lg-7">
-                                    <div class="card-body p-0">
-                                        <small class="d-block date text">
-                                            <a href="#"
-                                                class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5 fw-bold">დისკუსია</a>
-                                            <i class="bi bi-clock me-1"></i>
-                                            <a href="#" class="op-8">12 დღის წინ</a>
-                                        </small>
-                                        <a href="https://18f.gsa.gov/2024/12/10/how-we-measure-coaching/" target="_blank"
-                                            class="card-title mb-10">როგორ გავზომოთ
-                                            ქოუჩინგის ჩართულობის წარმატება</a>
-                                        <p class="fs-13px color-666">18F ზომავს ქოუჩინგის წარმატებას პირველად პროდუქტის
-                                            მფლობელების პროგრესის თვალყურის დევნით. თვითშეფასების და მუდმივი მხარდაჭერის
-                                            საშუალებით, მათ ყურადღება გაამახვილეს ისეთი ძირითადი უნარების განვითარებაზე,
-                                            როგორიცაა პროდუქტის აღმოჩენა და გამყიდველის მართვა. ეს მიდგომა მათ საშუალებას
-                                            აძლევდა თვალყური ადევნონ ზრდას და უზრუნველყონ, რომ სააგენტოს პარტნიორებს მიეცათ
-                                            უფლება, თავდაჯერებულად წარმართონ თავიანთი ტექნოლოგიების მოდერნიზაციის პროექტები.
-                                            [...]</p>
-                                        <div
-                                            class="auther-comments d-flex small align-items-center justify-content-between op-9">
-                                            <div class="l_side d-flex align-items-center">
-                                                <span
-                                                    class="icon-10 rounded-circle d-inline-flex justify-content-center align-items-center text-uppercase bg-blue5 p-2 me-2 text-white">
-                                                    a
-                                                </span>
-                                                <a href="#">
-                                                    <small class="text-muted"></small> ადმინისტრატორი
-                                                </a>
-                                            </div>
-                                            <div class="r-side mt-1">
-                                                <i class="bi bi-chat-left-text me-1"></i>
-                                                <a href="#">24</a>
-                                                <i class="bi bi-eye ms-4 me-1"></i>
-                                                <a href="#">774k</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+
 
                         <div class="pagination style-5 color-5 justify-content-center mt-60">
                             <a href="#" class="active">
