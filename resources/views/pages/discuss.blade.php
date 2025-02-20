@@ -3,253 +3,48 @@
     <!--Contents-->
     <main class="blog-page style-5">
 
-
-        <!-- ====== start blog-slider ====== -->
-        <section class="blog-slider pt-50 pb-50 style-1">
+        <!-- ====== start solutions  ====== -->
+        <section class="solutions style-10 section-padding ">
             <div class="container">
-                <div class="section-head text-center mb-60 style-5">
-                    <h2 class="mb-20"> ახალი <span> ამბები და პოდკასტები </span> </h2>
-                    <div class="text color-666">გაეცანით პოდკასტებსა და ახალ ამბებს</div>
-                </div>
-                <div class="blog-details-slider">
-                    <div class="swiper-container">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <div class="content-card">
-                                    <div class="img overlay">
-                                        <img src="assets/img/blog/s_blog.png" alt="">
-                                    </div>
-                                    <div class="info">
-                                        <div class="row">
-                                            <div class="col-lg-6">
-                                                <div class="cont">
-                                                    <small class="date small mb-20"> <a href="#"
-                                                            class="text-uppercase border-end brd-gray pe-3 me-3"> News </a>
-                                                        <i class="far fa-clock me-1"></i> Posted on <a href="#">3 Days
-                                                            ago</a> </small>
-                                                    <h2 class="title">
-                                                        <a href="https://digital.gov/event/2025/01/16/uswds-monthly-call-january-2025/"
-                                                            target="_blank">SUSWDS ყოველთვიური ზარი - 2025
-                                                            წლის იანვარი</a>
-                                                    </h2>
-                                                    <p class="fs-13px mt-10 text-light text-info">შეიტყვეთ აშშ-ს ვებ
-                                                        დიზაინის სისტემის საფუძვლები, როგორ დაიწყოთ დიზაინის სისტემა და რა
-                                                        მოელის შემდეგ USWDS-ს 2025 წელს.[...]</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="content-card">
-                                    <div class="img overlay">
-                                        <img src="assets/img/blog/1.jpeg" alt="">
-                                    </div>
-                                    <div class="info">
-                                        <div class="row">
-                                            <div class="col-lg-6">
-                                                <div class="cont">
-                                                    <small class="date small mb-20"> <a href="#"
-                                                            class="text-uppercase border-end brd-gray pe-3 me-3"> News </a>
-                                                        <i class="far fa-clock me-1"></i> Posted on <a href="#">3 Days
-                                                            ago</a> </small>
-                                                    <h2 class="title">
-                                                        <a href="https://digital.gov/2025/01/02/rebuilding-cdc-gov/"
-                                                            target="_blank">CDC.gov-ის
-                                                            აღდგენა</a>
-                                                    </h2>
-                                                    <p class="fs-13px mt-10 text-light text-info">შეიტყვეთ, თუ როგორ
-                                                        გამოიყენა CDC.gov-ის გუნდმა თამამი
-                                                        „სუფთა ფიქალის“ მიდგომა საიტის ხელახლა წარმოსახვისთვის და
-                                                        მომხმარებლის რეალური
-                                                        საჭიროებების დასაკმაყოფილებლად. [...]</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="content-card">
-                                    <div class="img overlay">
-                                        <img src="assets/img/blog/2.jpeg" alt="">
-                                    </div>
-                                    <div class="info">
-                                        <div class="row">
-                                            <div class="col-lg-6">
-                                                <div class="cont">
-                                                    <small class="date small mb-20"> <a href="#"
-                                                            class="text-uppercase border-end brd-gray pe-3 me-3"> News </a>
-                                                        <i class="far fa-clock me-1"></i> Posted on <a href="#">3 Days
-                                                            ago</a> </small>
-                                                    <h2 class="title">
-                                                        <a href="https://digital.gov/2024/12/31/reduce-remove-remediate-pdfs-and-government-websites/"
-                                                            target="_blank">შემცირება,
-                                                            წაშლა,
-                                                            გამოსწორება: PDF და სამთავრობო ვებსაიტები</a>
-                                                    </h2>
-                                                    <p class="fs-13px mt-10 text-light text-info">ბოლო დროს სამთავრობო
-                                                        საზოგადოების დისკუსიაში, ჩვენ
-                                                        გავუზიარეთ რჩევები სამთავრობო ვებსაიტებზე PDF-ების გამოყენების
-                                                        გამოსასწორებლად,
-                                                        საჭიროებების დაბალანსებაზე ფოკუსირება, ფორმატების არჩევა, დაწყებული
-                                                        გამოსწორებები და დოკუმენტების ხელმისაწვდომობის უზრუნველყოფა
-                                                        ყველასთვის. [...]</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
 
-                    <!-- ====== pagination ====== -->
-                    <div class="swiper-pagination"></div>
-                    <!-- ====== arrows ====== -->
-                    <div class="swiper-button-next"></div>
-                    <div class="swiper-button-prev"></div>
-                </div>
-            </div>
-        </section>
-        <!-- ====== end blog-slider ====== -->
+                <div class="content">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-3 col-sm-6">
+                            <a href="#" class="solution-card">
+                                <h6> 1542 აქტიური მოქალაქე </h6>
+                                <span class="icon"> <img src="assets/img/icons/solution/1.png" alt=""> </span>
+                            </a>
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                            <a href="#" class="solution-card">
+                                <h6>20 321 დისკუსია </h6>
+                                <span class="icon"> <img src="assets/img/icons/solution/2.png" alt=""> </span>
+                            </a>
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                            <a href="#" class="solution-card">
+                                <h6> 10 სამინისტრო </h6>
+                                <span class="icon"> <img src="assets/img/icons/solution/3.png" alt=""> </span>
+                            </a>
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                            <a href="#" class="solution-card">
+                                <h6>1 230 ჩართული მოხელე </h6>
+                                <span class="icon"> <img src="assets/img/icons/solution/4.png" alt=""> </span>
+                            </a>
+                        </div>
 
 
-        <!-- ====== start Popular Posts ====== -->
-        <section class="popular-posts pt-50 pb-100 border-bottom brd-gray">
-            <div class="container">
-                <h5 class="post-sc-title text-center text-uppercase mb-70">პოდკასტები</h5>
-                <div class="row gx-5">
-                    <div class="col-lg-4 border-end brd-gray">
-                        <div class="card border-0 bg-transparent rounded-0 mb-30 mb-lg-0 d-block">
-                            <div class="img radius-7 overflow-hidden img-cover">
-                                <img src="assets/img/blog/1.jpeg" class="card-img-top" alt="...">
-                            </div>
-                            <div class="card-body px-0">
-                                <small class="d-block date mt-10 fs-10px fw-bold">
-                                    <a href="#"
-                                        class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5">News</a>
-                                    <i class="bi bi-clock me-1"></i>
-                                    <a href="#" class="op-8">Posted on 3 დღის წინ</a>
-                                </small>
-                                <h5 class="fw-bold mt-10 title">
-                                    <a href="https://e-estonia.com/estonias-e-id-and-the-rise-of-the-eu-digital-wallet/"
-                                        target="_blank"> e-Estonia პოდკასტი: ესტონეთის ელექტრონული ID მოგზაურობა და
-                                        ევროკავშირის ციფრული პირადობის საფულის აღზევება</a>
-                                </h5>
-                                <p class="small mt-2 op-8 fs-10px">ამ თვეში, ჩვენ ვსაუბრობთ e-ID-ის დამაინტრიგებელ სამყაროზე
-                                    , ვიკვლევთ მის განვითარებას და გავლენას ადგილობრივი და გლობალური პერსპექტივიდან. [...]
-                                </p>
-                                <div class="d-flex small mt-20 align-items-center justify-content-between op-9">
-                                    <div class="l_side d-flex align-items-center">
-                                        <span
-                                            class="icon-20 rounded-circle d-inline-flex justify-content-center align-items-center text-uppercase bg-main p-1 me-2 text-white">
-                                            a
-                                        </span>
-                                        <a href="#" class="mt-1">
-                                            By Admin
-                                        </a>
-                                    </div>
-                                    <div class="r-side mt-1">
-                                        <i class="bi bi-chat-left-text me-1"></i>
-                                        <a href="#">24</a>
-                                        <i class="bi bi-eye ms-4 me-1"></i>
-                                        <a href="#">774k</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 border-end brd-gray">
-                        <div class="card border-0 bg-transparent rounded-0 mb-30 mb-lg-0 d-block">
-                            <div class="img radius-7 overflow-hidden img-cover">
-                                <img src="assets/img/blog/7.png" class="card-img-top" alt="...">
-                            </div>
-                            <div class="card-body px-0">
-                                <small class="d-block date mt-10 fs-10px fw-bold">
-                                    <a href="#"
-                                        class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5">News</a>
-                                    <i class="bi bi-clock me-1"></i>
-                                    <a href="#" class="op-8">Posted on 3 დღის წინ</a>
-                                </small>
-                                <h5 class="fw-bold mt-10 title">
-                                    <a href="https://e-estonia.com/podcast-green-futures-cleantech-biotech-and-ai/"
-                                        target="_blank">მწვანე ფიუჩერსები: სუფთა ტექნოლოგია, ბიოტექნოლოგია და AI</a>
-                                </h5>
-                                <p class="small mt-2 op-8 fs-10px">ოქტომბერში ჩვენ ვიკვლევთ სუფთა ტექნოლოგიებისა და
-                                    მდგრადობის სამყაროს, რომელიც ცვლის თამაშს, წარმოგიდგენთ ინდუსტრიის ლიდერების გადამწყვეტ
-                                    როლებს და ინოვაციურ მიდგომებს. [...]
-                                </p>
-                                <div class="d-flex small mt-20 align-items-center justify-content-between op-9">
-                                    <div class="l_side d-flex align-items-center">
-                                        <span
-                                            class="icon-20 rounded-circle d-inline-flex justify-content-center align-items-center text-uppercase bg-main p-1 me-2 text-white">
-                                            a
-                                        </span>
-                                        <a href="#" class="mt-1">
-                                            By Admin
-                                        </a>
-                                    </div>
-                                    <div class="r-side mt-1">
-                                        <i class="bi bi-chat-left-text me-1"></i>
-                                        <a href="#">24</a>
-                                        <i class="bi bi-eye ms-4 me-1"></i>
-                                        <a href="#">774k</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="card border-0 bg-transparent rounded-0 mb-30 mb-lg-0 d-block">
-                            <div class="img radius-7 overflow-hidden img-cover">
-                                <img src="assets/img/blog/5.png" class="card-img-top" alt="...">
-                            </div>
-                            <div class="card-body px-0">
-                                <small class="d-block date mt-10 fs-10px fw-bold">
-                                    <a href="#"
-                                        class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5">News</a>
-                                    <i class="bi bi-clock me-1"></i>
-                                    <a href="#" class="op-8">Posted on 3 დღის წინ</a>
-                                </small>
-                                <h5 class="fw-bold mt-10 title">
-                                    <a href="https://e-estonia.com/girls-in-tech-stem-tv-show-irish-education/"
-                                        target="_blank">თანამედროვე საკლასო ოთახები: გოგონები ტექნოლოგიაში, STEM
-                                        სატელევიზიო შოუ და ირლანდიური განათლება</a>
-                                </h5>
-                                <p class="small mt-2 op-8 fs-10px">ამჯერად ჩვენ ყურადღებას ვამახვილებთ საგანმანათლებლო
-                                    გარდაქმნებზე და ინოვაციურ მიდგომებზე ტექნოლოგიების ინტეგრირებისთვის სასწავლო
-                                    გარემოში.[...]
-                                </p>
-                                <div class="d-flex small mt-20 align-items-center justify-content-between op-9">
-                                    <div class="l_side d-flex align-items-center">
-                                        <span
-                                            class="icon-20 rounded-circle d-inline-flex justify-content-center align-items-center text-uppercase bg-main p-1 me-2 text-white">
-                                            a
-                                        </span>
-                                        <a href="#" class="mt-1">
-                                            By Admin
-                                        </a>
-                                    </div>
-                                    <div class="r-side mt-1">
-                                        <i class="bi bi-chat-left-text me-1"></i>
-                                        <a href="#">24</a>
-                                        <i class="bi bi-eye ms-4 me-1"></i>
-                                        <a href="#">774k</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>
         </section>
-        <!-- ====== end Popular Posts ====== -->
+        <!-- ====== end solutions  ====== -->
+
 
 
         <!-- ====== start all-news ====== -->
-        <section class="all-news section-padding blog bg-transparent style-3">
+        <section class="all-news blog section-padding bg-transparent style-3">
             <div class="container">
                 <div class="row gx-4 gx-lg-5">
                     <div class="col-lg-8">
@@ -265,7 +60,7 @@
                                         <small class="d-block date text">
                                             <a href="#"
                                                 class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5 fw-bold">
-                                                სიახლე </a>
+                                                დისკუსია </a>
                                             <i class="bi bi-clock me-1"></i>
                                             <a href="#" class="op-8">12 დღის წინ</a>
                                         </small>
@@ -351,7 +146,7 @@
                                     <div class="card-body p-0">
                                         <small class="d-block date text">
                                             <a href="#"
-                                                class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5 fw-bold">სიახლე</a>
+                                                class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5 fw-bold">დისკუსია</a>
                                             <i class="bi bi-clock me-1"></i>
                                             <a href="#" class="op-8">12 დღის წინ</a>
                                         </small>
@@ -396,7 +191,7 @@
                                     <div class="card-body p-0">
                                         <small class="d-block date text">
                                             <a href="#"
-                                                class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5 fw-bold">სიახლე</a>
+                                                class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5 fw-bold">დისკუსია</a>
                                             <i class="bi bi-clock me-1"></i>
                                             <a href="#" class="op-8">12 დღის წინ</a>
                                         </small>
@@ -438,7 +233,7 @@
                                     <div class="card-body p-0">
                                         <small class="d-block date text">
                                             <a href="#"
-                                                class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5 fw-bold">სიახლე</a>
+                                                class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5 fw-bold">დისკუსია</a>
                                             <i class="bi bi-clock me-1"></i>
                                             <a href="#" class="op-8">12 დღის წინ</a>
                                         </small>
@@ -483,7 +278,7 @@
                                     <div class="card-body p-0">
                                         <small class="d-block date text">
                                             <a href="#"
-                                                class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5 fw-bold">სიახლე</a>
+                                                class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5 fw-bold">დისკუსია</a>
                                             <i class="bi bi-clock me-1"></i>
                                             <a href="#" class="op-8">12 დღის წინ</a>
                                         </small>
@@ -528,7 +323,7 @@
                                     <div class="card-body p-0">
                                         <small class="d-block date text">
                                             <a href="#"
-                                                class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5 fw-bold">სიახლე</a>
+                                                class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5 fw-bold">დისკუსია</a>
                                             <i class="bi bi-clock me-1"></i>
                                             <a href="#" class="op-8">12 დღის წინ</a>
                                         </small>

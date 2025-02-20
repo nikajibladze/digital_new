@@ -18,4 +18,8 @@ Route::get('/login', function () {
     return view('pages/login');
 })->name('login');
 
+Route::get('/discuss', function () {
+    return view('pages/discuss');
+})->name('discuss');
+
 Route::get('/get-tree-data', [StructuresController::class, 'getTreeData']);

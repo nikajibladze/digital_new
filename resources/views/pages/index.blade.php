@@ -82,7 +82,7 @@
                                         world’s leading enterprises, SMEs and technology challengers. We help businesses
                                         elevate their value through custom software development, product design, QA and
                                         consultancy services.</p>
-                                    <a href="page-about-5.html"
+                                    <a href="{{ route('discuss') }}"
                                         class="btn btn-outline-light mt-5 sm-butn wow fadeInUp slow">
                                         <span>დისკუსიის დაწყება</span>
                                     </a>
