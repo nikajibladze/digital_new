@@ -134,10 +134,12 @@
                                     <a href="#" class="op-8">Posted on 3 დღის წინ</a>
                                 </small>
                                 <h5 class="fw-bold mt-10 title">
-                                    <a href="page-single-post-5.html"> პოდკასტი 2023</a>
+                                    <a href="https://e-estonia.com/estonias-e-id-and-the-rise-of-the-eu-digital-wallet/"
+                                        target="_blank"> e-Estonia პოდკასტი: ესტონეთის ელექტრონული ID მოგზაურობა და
+                                        ევროკავშირის ციფრული პირადობის საფულის აღზევება</a>
                                 </h5>
-                                <p class="small mt-2 op-8 fs-10px">If there’s one way that wireless technology has
-                                    changed the way we work, it’s that will everyone is now connected [...]
+                                <p class="small mt-2 op-8 fs-10px">ამ თვეში, ჩვენ ვსაუბრობთ e-ID-ის დამაინტრიგებელ სამყაროზე
+                                    , ვიკვლევთ მის განვითარებას და გავლენას ადგილობრივი და გლობალური პერსპექტივიდან. [...]
                                 </p>
                                 <div class="d-flex small mt-20 align-items-center justify-content-between op-9">
                                     <div class="l_side d-flex align-items-center">
@@ -172,10 +174,12 @@
                                     <a href="#" class="op-8">Posted on 3 დღის წინ</a>
                                 </small>
                                 <h5 class="fw-bold mt-10 title">
-                                    <a href="page-single-post-5.html">ახალი პოდკასტი</a>
+                                    <a href="https://e-estonia.com/podcast-green-futures-cleantech-biotech-and-ai/"
+                                        target="_blank">მწვანე ფიუჩერსები: სუფთა ტექნოლოგია, ბიოტექნოლოგია და AI</a>
                                 </h5>
-                                <p class="small mt-2 op-8 fs-10px">If there’s one way that wireless technology has
-                                    changed the way we work, it’s that will everyone is now connected [...]
+                                <p class="small mt-2 op-8 fs-10px">ოქტომბერში ჩვენ ვიკვლევთ სუფთა ტექნოლოგიებისა და
+                                    მდგრადობის სამყაროს, რომელიც ცვლის თამაშს, წარმოგიდგენთ ინდუსტრიის ლიდერების გადამწყვეტ
+                                    როლებს და ინოვაციურ მიდგომებს. [...]
                                 </p>
                                 <div class="d-flex small mt-20 align-items-center justify-content-between op-9">
                                     <div class="l_side d-flex align-items-center">
@@ -210,10 +214,13 @@
                                     <a href="#" class="op-8">Posted on 3 დღის წინ</a>
                                 </small>
                                 <h5 class="fw-bold mt-10 title">
-                                    <a href="page-single-post-5.html">პოდკასტი ახალი 3</a>
+                                    <a href="https://e-estonia.com/girls-in-tech-stem-tv-show-irish-education/"
+                                        target="_blank">თანამედროვე საკლასო ოთახები: გოგონები ტექნოლოგიაში, STEM
+                                        სატელევიზიო შოუ და ირლანდიური განათლება</a>
                                 </h5>
-                                <p class="small mt-2 op-8 fs-10px">If there’s one way that wireless technology has
-                                    changed the way we work, it’s that will everyone is now connected [...]
+                                <p class="small mt-2 op-8 fs-10px">ამჯერად ჩვენ ყურადღებას ვამახვილებთ საგანმანათლებლო
+                                    გარდაქმნებზე და ინოვაციურ მიდგომებზე ტექნოლოგიების ინტეგრირებისთვის სასწავლო
+                                    გარემოში.[...]
                                 </p>
                                 <div class="d-flex small mt-20 align-items-center justify-content-between op-9">
                                     <div class="l_side d-flex align-items-center">
