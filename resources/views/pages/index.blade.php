@@ -295,12 +295,12 @@
             <div class="container">
                 <div class="row">
                     <div class="col offset-lg-1">
-                        <div class="section-head mb-60">
+                        {{-- <div class="section-head mb-60">
                             <h6 class="color-main text-uppercase wow fadeInUp">our press</h6>
                             <h2 class="wow fadeInUp">
                                 Latest Posts <span class="fw-normal">From Our Press</span>
                             </h2>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
                 <div class="content">
