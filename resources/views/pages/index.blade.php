@@ -313,7 +313,7 @@
                                             <a href="#">ანგარიშები</a>
                                         </div>
                                         <div class="img">
-                                            <img src="assets/img/gerbi1.svg" alt="">
+                                            <img src="assets/img/blog/19.jpg" alt="">
                                         </div>
                                         <div class="info">
                                             <h6><a href="{{ route('stats') }}">სამინისტროს ანგარიშები</a></h6>
