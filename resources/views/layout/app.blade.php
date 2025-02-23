@@ -36,7 +36,7 @@
     <link rel="stylesheet" href="assets/css/lib/swiper.min.css" />
     <!-- ====== global style ====== -->
     <link rel="stylesheet" href="assets/css/style.css" />
-
+    <link rel="stylesheet" href="assets/css/new.css" />
     @vite(['resources/js/app.js'])
 
 </head>
