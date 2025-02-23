@@ -148,17 +148,17 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="page-contact-5.html">
+                        <a class="nav-link" href="#">
                             ფორუმი
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="page-contact-5.html">
+                        <a class="nav-link" href="#">
                             არჩევნები
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="page-contact-5.html">
+                        <a class="nav-link" href="#">
                             გამოკითხვა
                         </a>
                     </li>
@@ -348,7 +348,21 @@
     </a>
     <!-- ====== end to top button ====== -->
 
-
+    <!--Start of Tawk.to Script-->
+    <script type="text/javascript">
+        var Tawk_API = Tawk_API || {},
+            Tawk_LoadStart = new Date();
+        (function() {
+            var s1 = document.createElement("script"),
+                s0 = document.getElementsByTagName("script")[0];
+            s1.async = true;
+            s1.src = 'https://embed.tawk.to/5f43c8171e7ade5df4437232/default';
+            s1.charset = 'UTF-8';
+            s1.setAttribute('crossorigin', '*');
+            s0.parentNode.insertBefore(s1, s0);
+        })();
+    </script>
+    <!--End of Tawk.to Script-->
     <!-- ====== request ====== -->
     <script src="assets/js/lib/jquery-3.0.0.min.js"></script>
     <script src="assets/js/lib/jquery-migrate-3.0.0.min.js"></script>

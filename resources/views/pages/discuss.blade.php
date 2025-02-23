@@ -153,7 +153,7 @@
                                     <div class="card-body p-0">
                                         <small class="d-block date text">
                                             <a href="#"
-                                                class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5 fw-bold">დისკუსია</a>
+                                                class="text-uppercase border-end brd-gray pe-3 me-3 color-blue5 fw-bold">დისკუა</a>
                                             <i class="bi bi-clock me-1"></i>
                                             <a href="#" class="op-8">12 დღის წინ</a>
                                         </small>

@@ -349,7 +349,7 @@
                         <div class="col-lg-6">
                             <div class="service-box mb-4 wow fadeInUp" data-wow-delay="0.4s">
                                 <h5>
-                                    <a href="page-services-5.html"> მოსახლეობის მიერ სტრუქტურაში გაგზავნილი იდეების
+                                    <a href="{{ route('stats') }}"> მოსახლეობის მიერ სტრუქტურაში გაგზავნილი იდეების
                                         სტატისტიკა </a>
                                     <span class="num">03</span>
                                 </h5>
@@ -818,7 +818,7 @@
                     <a href="page-about-5.html" class="btn btn-dark wow zoomIn">
                         <span>See All Team</span>
                     </a>
-                    <a href="page-contact-5.html" class="btn butn-gard border-0 text-white wow zoomIn">
+                    <a href="#" class="btn butn-gard border-0 text-white wow zoomIn">
                         <span>Join Our Team</span>
                     </a>
                 </div>
