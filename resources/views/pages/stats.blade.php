@@ -212,7 +212,7 @@
                                     <div class="stats-footer mt-3">
                                         <div class="footer-actions d-flex justify-content-between">
                                             <div class="footer-action-item">
-                                                <a href="#" class="badge bg-primary"> სრული ანგარიშის ნახვა PDF ში
+                                                <a href="#" class="badge bg-danger"> სრული ანგარიშის ნახვა PDF ში
                                                 </a>
                                             </div>
                                             <div class="tags">
