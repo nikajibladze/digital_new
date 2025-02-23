@@ -306,7 +306,7 @@
                         <div class="col-lg-6">
                             <div class="service-box mb-4 wow fadeInUp" data-wow-delay="0">
                                 <h5>
-                                    <a href="page-services-5.html"> სამინისტროს ანგარიშები</a>
+                                    <a href="{{ route('stats') }}"> სამინისტროს ანგარიშები</a>
                                     <span class="num">01</span>
                                 </h5>
                                 <div class="icon">
