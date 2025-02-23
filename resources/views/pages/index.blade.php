@@ -288,17 +288,106 @@
         </section>
         <!-- ====== end partners ====== -->
 
-        <!-- ====== start services ====== -->
-        <section class="services section-padding style-1">
+
+
+        <!-- ====== start blog ====== -->
+        <section class="blog section-padding bg-gray style-1" data-scroll-index="6">
             <div class="container">
                 <div class="row">
                     <div class="col offset-lg-1">
-                        {{-- <div class="section-head mb-60">
-                            <h6 class="color-main text-uppercase wow fadeInUp">our services</h6>
+                        <div class="section-head mb-60">
+                            <h6 class="color-main text-uppercase wow fadeInUp">our press</h6>
                             <h2 class="wow fadeInUp">
-                                Perfect IT Solutions <span class="fw-normal">For Your Business</span>
+                                Latest Posts <span class="fw-normal">From Our Press</span>
                             </h2>
-                        </div> --}}
+                        </div>
+                    </div>
+                </div>
+                <div class="content">
+                    <div class="blog_slider">
+                        <div class="swiper-container">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <div class="blog_box">
+                                        <div class="tags">
+                                            <a href="#">ანგარიშები</a>
+                                        </div>
+                                        <div class="img">
+                                            <img src="assets/img/gerbi1.svg" alt="">
+                                        </div>
+                                        <div class="info">
+                                            <h6><a href="{{ route('stats') }}">სამინისტროს ანგარიშები</a></h6>
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="blog_box">
+                                        <div class="tags">
+                                            <a href="#">იდეები</a>
+                                        </div>
+                                        <div class="img">
+                                            <img src="assets/img/blog/2.jpeg" alt="">
+                                        </div>
+                                        <div class="info">
+                                            <h6><a href="page-single-post-5.html">მოსახლეობის მიერ სტრუქტურებში გაგზავნილი
+                                                    იდეები</a></h6>
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="blog_box">
+                                        <div class="tags">
+                                            <a href="#">სტატისტიკები</a>
+                                        </div>
+                                        <div class="img">
+                                            <img src="assets/img/blog/3.jpeg" alt="">
+                                        </div>
+                                        <div class="info">
+                                            <h6><a href="#">მოსახლეობის მიერ სტრუქტურაში გაგზავნილი
+                                                    იდეების სტატისტიკა</a></h6>
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="blog_box">
+                                        <div class="tags">
+                                            <a href="#">დიზაინი</a>
+                                        </div>
+                                        <div class="img">
+                                            <img src="assets/img/blog/4.jpeg" alt="">
+                                        </div>
+                                        <div class="info">
+                                            <h6><a href="#"> UI/UX Design</a></h6>
+
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- ====== slider navigation ====== -->
+                        <div class="swiper-button-prev"></div>
+                        <div class="swiper-button-next"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- ====== end blog ====== -->
+
+
+        <!-- ====== start services ====== -->
+        {{-- <section class="services section-padding style-1">
+            <div class="container">
+                <div class="row">
+                    <div class="col offset-lg-1">
+                 
                     </div>
                 </div>
                 <div class="content">
@@ -395,7 +484,7 @@
             </div>
             <img src="assets/img/services/ser_shap_l.png" alt="" class="ser_shap_l">
             <img src="assets/img/services/ser_shap_r.png" alt="" class="ser_shap_r">
-        </section>
+        </section> --}}
         <!-- ====== end services ====== -->
 
         <!-- ====== start process ====== -->
