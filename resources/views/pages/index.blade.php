@@ -173,18 +173,18 @@
                     <div class="swiper-container">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
-                                <a href="#" class="features-card style-7">
+                                <a href="{{ route('digital.single', ['id' => 1]) }}" class="features-card style-7">
                                     <div class="icon">
                                         <img src="assets/img/icons/fe1.png" alt="">
                                     </div>
                                     <div class="info">
                                         <p class="color-999"> გადაწყვეტილება 01 </p>
-                                        <h5>ჯანცაცვა </h5>
+                                        <h5>ჯანდაცვა </h5>
                                     </div>
                                 </a>
                             </div>
                             <div class="swiper-slide">
-                                <a href="#" class="features-card style-7">
+                                <a href="{{ route('digital.single', ['id' => 2]) }}" class="features-card style-7">
                                     <div class="icon">
                                         <img src="assets/img/icons/fe2.png" alt="">
                                     </div>
@@ -195,7 +195,7 @@
                                 </a>
                             </div>
                             <div class="swiper-slide">
-                                <a href="#" class="features-card style-7">
+                                <a href="{{ route('digital.single', ['id' => 3]) }}" class="features-card style-7">
                                     <div class="icon">
                                         <img src="assets/img/icons/fe3.png" alt="">
                                     </div>

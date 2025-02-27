@@ -44,7 +44,7 @@
                                     <p class="text">{{ $digital->text }}</p>
                                     <div class="d-flex align-items-center mt-40">
                                         <div class="btns">
-                                            <a href="{{ route('digital.list', ['id' => 1]) }}"
+                                            <a href="{{ route('digital.single.list', ['id' => $digital->id]) }}"
                                                 class="btn rounded-pill blue5-3Dbutn hover-blue2 sm-butn fw-bold">
                                                 <span> დეტალურად </span>
                                             </a>

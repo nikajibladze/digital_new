@@ -334,9 +334,9 @@
                 <div class="col-lg-12">
                     <div class="foot">
                         <p>
-                            © 2023 Copyrights by <a href="#" class="text-white text-decoration-underline">Iteck
-                                Co.</a> All Rights Reserved by <a href="#"
-                                class="text-white text-decoration-underline"> გაუზიარე შენი მოსაზრება </a>
+                            © 2025 <a href="#" class="text-white text-decoration-underline">ციფრული საქართველო
+                            </a> ყველა უფლება დაცულია <a href="#" class="text-white text-decoration-underline">
+                                გაუზიარე შენი მოსაზრება </a>
                         </p>
                     </div>
                 </div>

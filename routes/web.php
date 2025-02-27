@@ -30,6 +30,7 @@ Route::get('/stats', function () {
 
 Route::get('/digital/{id?}', [DigitalController::class, 'show'])->name('digital.single');
 
+Route::get('/digital/list/{id?}', [DigitalController::class, 'index'])->name('digital.single.list');
 // Route::get('pages/single/digital/{id}', function () {
 //    return view('pages/single/digital');
 // })->name('digital.single');
