@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\StructuresController;
+use App\Http\Controllers\DigitalController;
 Route::get('/', function () {
     return view('pages/index');
 })->name('index');
@@ -25,5 +26,17 @@ Route::get('/discuss', function () {
 Route::get('/stats', function () {
     return view('pages/stats');
 })->name('stats');
+
+
+Route::get('/digital/{id?}', [DigitalController::class, 'show'])->name('digital.single');
+
+// Route::get('pages/single/digital/{id}', function () {
+//    return view('pages/single/digital');
+// })->name('digital.single');
+
+Route::get('pages/list/digital/{id}', function () {
+   // return view('pages/list/digital');
+})->name('digital.list');
+
 
 Route::get('/get-tree-data', [StructuresController::class, 'getTreeData']);

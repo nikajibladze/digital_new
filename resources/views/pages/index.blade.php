@@ -233,60 +233,7 @@
         </section>
         <!-- ====== end features ====== -->
 
-        <!-- ====== start partners ====== -->
-        <section class="clients style-9  bg-gray2">
-            <div class="container">
 
-                <div class="content">
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="client-card wow fadeInUp">
-                                <div class="row">
-                                    <div class="col-md-3">
-                                        <div class="img">
-                                            <img src="assets/img/icons/prt1.png" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="col-md-9">
-                                        <div class="info">
-                                            <h5> ახალი ინიციატივა </h5>
-                                            <p> Get everything you need to start and run your web hosting and domain
-                                                business. </p>
-                                            <a href="#" class="mt-30"> <i
-                                                    class="far fa-long-arrow-right l-arrow me-2"></i> დეტალურად<i
-                                                    class="far fa-long-arrow-right r-arrow ms-2"></i> </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="client-card mt-4 mt-md-0 wow fadeInUp" data-wow-delay="0.2s">
-                                <div class="row">
-                                    <div class="col-md-3">
-                                        <div class="img">
-                                            <img src="assets/img/icons/prt2.png" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="col-md-9">
-                                        <div class="info">
-                                            <h5> სახელმწიფოს მიერ შესრულებული სამუშაოები</h5>
-                                            <p> Spend less time managing client sites, and free up your day to create
-                                                more and manage less. </p>
-                                            <a href="#" class="mt-30"> <i
-                                                    class="far fa-long-arrow-right l-arrow me-2"></i> დეტალურად<i
-                                                    class="far fa-long-arrow-right r-arrow ms-2"></i> </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </section>
-        <!-- ====== end partners ====== -->
 
 
 
@@ -363,7 +310,7 @@
                                             <img src="assets/img/blog/4.jpeg" alt="">
                                         </div>
                                         <div class="info">
-                                            <h6><a href="#"> UI/UX Design</a></h6>
+                                            <h6><a href="#"> სახელმწიფოს მიერ შესრულებული სამუშაოები</a></h6>
 
 
                                         </div>

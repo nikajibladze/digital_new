@@ -11,10 +11,10 @@
     <meta name="author" content="" />
 
     <!-- Title  -->
-    <title>Iteck</title>
+    <title>ციფრული საქართველო</title>
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="assets/img/gerbi.png" title="Favicon" sizes="16x16" />
+    <link rel="shortcut icon" href="{{ asset('assets/img/gerbi.png') }}" title="Favicon" />
 
     <!-- ====== bootstrap icons cdn ====== -->
     {{-- <link rel="stylesheet"
@@ -23,20 +23,20 @@
         crossorigin="anonymous" referrerpolicy="no-referrer" /> --}}
 
     <!-- bootstrap 5 -->
-    <link rel="stylesheet" href="assets/css/lib/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ asset('assets/css/lib/bootstrap.min.css') }}">
 
     <!-- ====== font family ====== -->
     {{-- <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap"
         rel="stylesheet"> --}}
 
-    <link rel="stylesheet" href="assets/css/lib/all.min.css" />
-    <link rel="stylesheet" href="assets/css/lib/animate.css" />
-    <link rel="stylesheet" href="assets/css/lib/jquery.fancybox.css" />
-    <link rel="stylesheet" href="assets/css/lib/lity.css" />
-    <link rel="stylesheet" href="assets/css/lib/swiper.min.css" />
+    <link rel="stylesheet" href="{{ asset('assets/css/lib/all.min.css') }}" />
+    <link rel="stylesheet" href="{{ asset('assets/css/lib/animate.css') }}" />
+    <link rel="stylesheet" href="{{ asset('assets/css/lib/jquery.fancybox.css') }}" />
+    <link rel="stylesheet" href="{{ asset('assets/css/lib/lity.css') }}" />
+    <link rel="stylesheet" href="{{ asset('assets/css/lib/swiper.min.css') }}" />
     <!-- ====== global style ====== -->
-    <link rel="stylesheet" href="assets/css/style.css" />
-    <link rel="stylesheet" href="assets/css/new.css" />
+    <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}" />
+    <link rel="stylesheet" href="{{ asset('assets/css/new.css') }}" />
     @vite(['resources/js/app.js'])
 
 </head>
@@ -49,7 +49,7 @@
     <!-- ---------- loader ---------- -->
     <div id="preloader">
         <div id="loading-wrapper" class="show">
-            <div id="loading-text"> <img src="assets/img/gerbi_big.png" alt=""> </div>
+            <div id="loading-text"> <img src="{{ asset('assets/img/gerbi_big.png') }}" alt=""> </div>
             <div id="loading-content"></div>
         </div>
     </div>
@@ -91,7 +91,8 @@
                             <div class="dropdown">
                                 <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink"
                                     data-bs-toggle="dropdown" aria-expanded="false">
-                                    <img class="me-1" src="assets/img/lang.png" alt=""> English
+                                    <img class="me-1" src="{{ asset('assets/img/lang.png') }}" alt="">
+                                    English
                                 </a>
                                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
                                     <li><a class="dropdown-item" href="#">French</a></li>
@@ -133,11 +134,17 @@
                             ციფრული საქართველო
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown1">
-                            <li><a class="dropdown-item" href="#">ჯანდაცვა</a></li>
-                            <li><a class="dropdown-item" href="#">ელექტრონული მმართველობა</a></li>
-                            <li><a class="dropdown-item" href="page-services-5.html">კიბერუსაფრთხოება</a></li>
-                            <li><a class="dropdown-item" href="page-shop-5.html">განათლება და კვლევა</a></li>
-                            <li><a class="dropdown-item" href="page-single-project-5.html">ელექტონული იდენტობა</a>
+                            <li><a class="dropdown-item"
+                                    href="{{ route('digital.single', ['id' => 1]) }}">ჯანდაცვა</a>
+                            </li>
+                            <li><a class="dropdown-item"
+                                    href="{{ route('digital.single', ['id' => 2]) }}">ელექტრონული მმართველობა</a></li>
+                            <li><a class="dropdown-item"
+                                    href="{{ route('digital.single', ['id' => 3]) }}">კიბერუსაფრთხოება</a></li>
+                            <li><a class="dropdown-item" href="{{ route('digital.single', ['id' => 4]) }}">განათლება
+                                    და კვლევა</a></li>
+                            <li><a class="dropdown-item" href="{{ route('digital.single', ['id' => 5]) }}">ინდუსტრიის
+                                    გაციფრულება</a>
                             </li>
                         </ul>
                     </li>
@@ -212,7 +219,7 @@
                     <div class="col-lg-4">
                         <div class="foot_info">
                             <a href="#" class="logo mb-3">
-                                <img src="assets/img/gerbi.png" alt="">
+                                <img src="{{ asset('assets/img/gerbi.png') }}" alt="">
                             </a>
                             <div class="text mb-4">
                                 გაუზიარე შენი მოსაზრება სახელმწიფოს
@@ -364,18 +371,18 @@
     </script>
     <!--End of Tawk.to Script-->
     <!-- ====== request ====== -->
-    <script src="assets/js/lib/jquery-3.0.0.min.js"></script>
-    <script src="assets/js/lib/jquery-migrate-3.0.0.min.js"></script>
-    <script src="assets/js/lib/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/lib/wow.min.js"></script>
-    <script src="assets/js/lib/jquery.fancybox.js"></script>
-    <script src="assets/js/lib/lity.js"></script>
-    <script src="assets/js/lib/swiper.min.js"></script>
-    <script src="assets/js/lib/jquery.waypoints.min.js"></script>
-    <script src="assets/js/lib/jquery.counterup.js"></script>
+    <script src="{{ asset('assets/js/lib/jquery-3.0.0.min.js') }}"></script>
+    <script src="{{ asset('assets/js/lib/jquery-migrate-3.0.0.min.js') }}"></script>
+    <script src="{{ asset('assets/js/lib/bootstrap.bundle.min.js') }}"></script>
+    <script src="{{ asset('assets/js/lib/wow.min.js') }}"></script>
+    <script src="{{ asset('assets/js/lib/jquery.fancybox.js') }}"></script>
+    <script src="{{ asset('assets/js/lib/lity.js') }}"></script>
+    <script src="{{ asset('assets/js/lib/swiper.min.js') }}"></script>
+    <script src="{{ asset('assets/js/lib/jquery.waypoints.min.js') }}"></script>
+    <script src="{{ asset('assets/js/lib/jquery.counterup.js') }}"></script>
     <!-- <script src="assets/js/lib/pace.js"></script> -->
-    <script src="assets/js/lib/scrollIt.min.js"></script>
-    <script src="assets/js/main.js"></script>
+    <script src="{{ asset('assets/js/lib/scrollIt.min.js') }}"></script>
+    <script src="{{ asset('assets/js/main.js') }}"></script>
 
 </body>
 
