@@ -40,6 +40,14 @@ class DigitalController extends Controller
         return view('pages.single.digital', compact('digital'));
     }
 
+    public function detail()
+    {
+        $title = 'Some Title';
+  
+        
+        return view('pages.inner.digital',compact('title'));
+    }
+
     /**
      * Show the form for editing the specified resource.
      */

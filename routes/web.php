@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\StructuresController;
 use App\Http\Controllers\DigitalController;
+
 Route::get('/', function () {
     return view('pages/index');
 })->name('index');
@@ -31,9 +32,14 @@ Route::get('/stats', function () {
 Route::get('/digital/{id?}', [DigitalController::class, 'show'])->name('digital.single');
 
 Route::get('/digital/list/{id?}', [DigitalController::class, 'index'])->name('digital.single.list');
-// Route::get('pages/single/digital/{id}', function () {
-//    return view('pages/single/digital');
-// })->name('digital.single');
+
+
+Route::get('/single/digital', [DigitalController::class, 'detail'])->name('digital.single.detail');
+
+Route::get('pages/vote', function () {
+    return view('pages/vote');
+ })->name('vote');
+
 
 Route::get('pages/list/digital/{id}', function () {
    // return view('pages/list/digital');

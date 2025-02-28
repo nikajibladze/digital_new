@@ -154,14 +154,14 @@
                             ახალი ამბები და პოდკასტები
                         </a>
                     </li>
-                    <li class="nav-item">
+                    {{-- <li class="nav-item">
                         <a class="nav-link" href="#">
                             ფორუმი
                         </a>
-                    </li>
+                    </li> --}}
                     <li class="nav-item">
-                        <a class="nav-link" href="#">
-                            არჩევნები
+                        <a class="nav-link" href="{{ route('vote') }}">
+                            ჩვენი ხმა ჩვენი მომავალი
                         </a>
                     </li>
                     <li class="nav-item">

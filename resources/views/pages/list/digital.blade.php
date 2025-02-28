@@ -39,7 +39,7 @@
                                                 <a href="#" class="fs-12px">3 Days ago</a>
                                             </div>
                                             <h4 class="blog-title">
-                                                <a href="page-single-post-5.html">ტელემედიცინის მხარდაჭერა</a>
+                                                <a href="{{ route('digital.single.detail') }}">ტელემედიცინის მხარდაჭერა</a>
                                             </h4>
                                             <div class="text">
                                                 Dermtest არის ტელემედიცინის გადაწყვეტა, რომელიც პაციენტებს შეუძლიათ
@@ -68,7 +68,7 @@
                                 </div>
                                 <div class="col-lg-4 col-sm-6">
                                     <div class="blog-card style-6">
-                                        <a href="page-single-post-5.html" class="img img-cover d-block">
+                                        <a href="{{ route('digital.single.detail') }}" class="img img-cover d-block">
                                             <img src="{{ asset('assets/img/blog/9.png') }}" alt="">
                                         </a>
                                         <div class="info">
@@ -80,7 +80,7 @@
                                                 <a href="#" class="fs-12px">3 Days ago</a>
                                             </div>
                                             <h4 class="blog-title">
-                                                <a href="page-single-post-5.html">ტელემედიცინის მხარდაჭერა</a>
+                                                <a href="{{ route('digital.single.detail') }}">ტელემედიცინის მხარდაჭერა</a>
                                             </h4>
                                             <div class="text">
                                                 If there’s one way that wireless technology has changed the way we work,
@@ -108,9 +108,10 @@
                                     </div>
 
                                 </div>
+
                                 <div class="col-lg-4 col-sm-6">
                                     <div class="blog-card style-6">
-                                        <a href="page-single-post-5.html" class="img img-cover d-block">
+                                        <a href="{{ route('digital.single.detail') }}" class="img img-cover d-block">
                                             <img src="{{ asset('assets/img/blog/9.png') }}" alt="">
                                         </a>
                                         <div class="info">
@@ -122,11 +123,12 @@
                                                 <a href="#" class="fs-12px">3 Days ago</a>
                                             </div>
                                             <h4 class="blog-title">
-                                                <a href="page-single-post-5.html">ტელემედიცინის მხარდაჭერა</a>
+                                                <a href="{{ route('digital.single.detail') }}">ტელემედიცინის მხარდაჭერა</a>
                                             </h4>
                                             <div class="text">
-                                                Dermtest არის ტელემედიცინის გადაწყვეტა, რომელიც პაციენტებს შეუძლიათ
-                                                გამოიყენონ სურათებისა და კარგად სტრუქტურირებული აღწერების გასაგზავნად
+                                                If there’s one way that wireless technology has changed the way we work,
+                                                it’s that
+                                                will everyone is now connected [...]
                                             </div>
                                             <div class="d-flex small mt-20 align-items-center justify-content-between op-9">
                                                 <div class="l_side d-flex align-items-center">
