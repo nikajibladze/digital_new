@@ -12,12 +12,12 @@
     "src": "node_modules/jstree/dist/themes/default/throbber.gif"
   },
   "resources/css/app.css": {
-    "file": "assets/app-DtKDtRyO.css",
+    "file": "assets/app-CWeeFdbI.css",
     "src": "resources/css/app.css",
     "isEntry": true
   },
   "resources/js/app.js": {
-    "file": "assets/app-DbIT-GSv.js",
+    "file": "assets/app-Bmrav-mc.js",
     "name": "app",
     "src": "resources/js/app.js",
     "isEntry": true,

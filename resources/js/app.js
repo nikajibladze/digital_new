@@ -63,6 +63,17 @@ if (treeElement) {
             var shareForm = document.querySelector(".share-form");
             if (nodeName != "") {
                 shareForm.style.display = "block";
+                var targetElement = document.querySelector(".share-form");
+                if (targetElement) {
+                    targetElement.scrollIntoView({
+                        behavior: "smooth", // Smooth scrolling effect
+                        block: "start" 
+                             // Align the element to the top of the view
+                    });
+                   
+                  
+                }
+            
             }
         });
         // Live search functionality
