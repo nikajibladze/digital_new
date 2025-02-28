@@ -19,7 +19,7 @@
                             <div class="item">
                                 <div class="cont">
                                     <div class="title">
-                                        <img src="{{ asset('assets/img/icons/serv_icons/40.png') }}" alt=""
+                                        <img src="{{ asset('assets/img/icons/serv_icons/youth.png') }}" alt=""
                                             class="icon">
                                         <span> მოქალაქეებისთვის </span>
                                     </div>
@@ -30,7 +30,7 @@
                                         პასუხისმგებელი პირისგან </p>
                                     <p class="text-success"><i class="fa fa-check"></i> თვალი ადევნეთ თქვენი ინიციატივის
                                         პროგრესს </p>
-                                    <a href="#"> Service Details </a>
+                                    <a href="#"> დეტალურად </a>
                                 </div>
                                 <span class="circle"></span>
                                 <img src="{{ asset('assets/img/services/pattern1.png') }}" class="pattern"></img>
@@ -40,7 +40,7 @@
                             <div class="item">
                                 <div class="cont">
                                     <div class="title">
-                                        <img src="{{ asset('assets/img/icons/serv_icons/41.png') }}" alt=""
+                                        <img src="{{ asset('assets/img/icons/serv_icons/department.png') }}" alt=""
                                             class="icon">
                                         <span> მთავრობისთვის </span>
                                     </div>
@@ -50,7 +50,7 @@
                                     </p>
                                     <p class="text-success"><i class="fa fa-check"></i> გააუმჯობესეთ კომუნიკაცია
                                         მოქალაქეებთან </p>
-                                    <a href="#"> Service Details </a>
+                                    <a href="#"> დეტალურად </a>
                                 </div>
                                 <span class="circle"></span>
                                 <img src="{{ asset('assets/img/services/pattern1.png') }}" class="pattern"></img>
@@ -104,7 +104,7 @@
                                     <div class="author d-flex align-items-center">
 
                                         <div class="inf text-center">
-                                            <p>დაწერეთ რა გაზუხებთ ან რისი გაუმჯობესება გსურთ თქვენს რეგიონში</p>
+                                            <p>დაწერეთ რა გაწუხებთ ან რისი გაუმჯობესება გსურთ თქვენს რეგიონში</p>
                                         </div>
                                     </div>
                                 </div>
@@ -158,7 +158,7 @@
                                             <div class="stat-counter">
                                                 <div class="stats-parent d-flex justify-content-between mb-3">
                                                     <span>ინიციატორი</span>
-                                                    <span class="fw-bold">დავით მესი</span>
+                                                    <span class="fw-bold">დავით მესხი</span>
                                                 </div>
 
                                                 <div class="stats-parent d-flex justify-content-between mb-3">
@@ -254,8 +254,8 @@
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="item text-center">
-                                <a href="{{ route('share') }}" class="btn border border hover-blue8 bg-gray">
-                                    <span class="fs-16px">დავიწყოთ</span>
+                                <a href="{{ route('share') }}" class="btn butn-gard border-0 text-white wow zoomIn">
+                                    <span>დავიწყოთ</span>
                                 </a>
                             </div>
                         </div>
